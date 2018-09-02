@@ -1,0 +1,1001 @@
+id,target_credit_approval,company_name,sector,creation_year,number_employes,revenues_million,bankruptcy,debts,loan_before,partner_debts,financial_restrictions,purchase_past,purchase_mean_million,purchase_countdays,purchase_payments,purchase_frequency,interest_rate,right_payment
+1,false,"ClubCorp Holdings, Inc.",Hotels/Resorts,2001,235,$351.33,false,true,false,false,false,false,$0.13,319,1,Once,4.1,true
+2,true,Eaton Vance NextShares Trust,n/a,2011,459,$286.56,false,true,false,false,false,false,$0.16,66,8,Seldom,2.6,true
+3,true,Total S.A.,Oil & Gas Production,1968,41,$86.05,true,true,false,false,false,true,$3.23,125,3,Monthly,1.7,false
+4,false,CRH PLC,Building Materials,1987,201,$82.00,false,true,false,false,true,true,$6.14,346,11,Seldom,3.5,true
+5,false,CRISPR Therapeutics AG,Biotechnology: Biological Products (No Diagnostic Substances),2008,697,$124.22,false,false,false,true,true,true,$8.13,33,12,Often,0.5,true
+6,true,Nuveen Core Equity Alpha Fund,n/a,2002,124,$362.56,true,true,true,false,true,true,$9.68,246,1,Often,0.4,false
+7,false,"MIDSTATES PETROLEUM COMPANY, INC.",Oil & Gas Production,1997,774,$43.90,false,true,true,false,true,false,$4.35,347,8,Never,2.5,false
+8,true,FinTech Acquisition Corp. II,Business Services,2004,801,$484.04,true,true,true,false,false,true,$3.27,194,7,Seldom,3.7,false
+9,true,"UFP Technologies, Inc.",Containers/Packaging,1999,516,$159.10,false,true,true,true,false,false,$8.49,60,7,Once,4.1,false
+10,false,"Retail Properties of America, Inc.",Real Estate Investment Trusts,1998,655,$438.93,true,true,false,false,true,false,$3.96,61,12,Once,3.3,true
+11,true,Novo Nordisk A/S,Major Pharmaceuticals,2005,514,$295.04,false,false,false,false,false,true,$4.23,284,7,Daily,0.3,true
+12,false,ENSCO plc,Oil & Gas Production,1986,273,$53.51,false,true,true,false,true,true,$0.06,229,6,Monthly,2.3,false
+13,true,"ConnectOne Bancorp, Inc.",Major Banks,2012,621,$205.25,true,true,false,true,false,false,$0.57,318,6,Monthly,4.6,true
+14,true,"SK Telecom Co., Ltd.",Telecommunications Equipment,1992,744,$184.36,false,true,true,true,true,true,$0.13,36,2,Once,2.3,true
+15,false,Amaya Inc.,"Computer Software: Programming, Data Processing",1992,639,$41.76,false,false,true,true,true,true,$2.22,244,9,Yearly,1.0,true
+16,true,"B&G Foods, Inc.",Packaged Foods,2006,644,$429.63,false,false,false,false,true,true,$5.75,97,2,Monthly,3.3,true
+17,false,"Atlas Financial Holdings, Inc.",Property-Casualty Insurers,1994,95,$30.87,true,false,false,true,false,false,$0.74,179,11,Monthly,4.6,true
+18,true,Carnival Corporation,Marine Transportation,1998,85,$29.71,true,false,true,false,true,false,$5.74,322,7,Once,1.8,false
+19,true,"pdvWireless, Inc.",Telecommunications Equipment,1995,372,$26.95,false,false,false,true,false,false,$7.07,206,4,Monthly,3.1,true
+20,true,Pebblebrook Hotel Trust,n/a,2010,512,$51.03,true,true,true,false,true,false,$7.67,335,5,Never,2.1,false
+21,false,"Codexis, Inc.",Major Chemicals,1984,277,$57.83,true,false,true,true,true,true,$1.59,20,10,Weekly,3.5,false
+22,false,"Surgery Partners, Inc.",Hospital/Nursing Management,1963,539,$233.55,false,false,false,false,true,true,$4.22,315,8,Monthly,2.4,false
+23,false,Concurrent Computer Corporation,Computer Manufacturing,1989,342,$438.92,true,false,true,true,true,true,$7.50,117,5,Never,4.0,true
+24,true,Acceleron Pharma Inc.,Biotechnology: Biological Products (No Diagnostic Substances),1974,679,$12.93,true,false,true,true,false,true,$7.93,278,6,Once,0.2,false
+25,true,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",n/a,1995,18,$208.92,false,true,false,true,true,true,$9.89,106,8,Yearly,2.9,true
+26,false,National Retail Properties,n/a,2003,338,$137.20,true,false,true,true,false,true,$5.57,143,6,Once,4.4,true
+27,true,PowerShares Variable Rate Investment Grade Portfolio,n/a,2007,372,$120.93,true,true,true,true,true,true,$0.14,348,10,Never,4.9,true
+28,false,"Micronet Enertec Technologies, Inc.",Electrical Products,1988,377,$114.09,false,false,false,true,false,false,$3.51,313,5,Often,4.6,true
+29,false,China Southern Airlines Company Limited,Air Freight/Delivery Services,1998,633,$430.40,false,true,false,false,true,false,$2.33,325,9,Never,4.6,true
+30,false,Gladstone Capital Corporation,n/a,2007,382,$100.32,false,false,false,false,true,false,$4.64,56,4,Yearly,4.8,false
+31,true,Alphabet Inc.,"Computer Software: Programming, Data Processing",2012,662,$138.39,true,true,true,false,false,true,$4.73,159,5,Daily,1.5,true
+32,true,"Aquinox Pharmaceuticals, Inc.",Major Pharmaceuticals,2009,222,$457.72,true,true,true,false,false,false,$8.94,267,10,Often,2.2,false
+33,true,"Plantronics, Inc.",Telecommunications Equipment,2008,395,$6.30,true,true,true,true,true,true,$2.98,328,1,Often,2.5,true
+34,true,"FLIR Systems, Inc.",Industrial Machinery/Components,2008,65,$195.77,false,false,false,false,false,false,$2.42,115,6,Never,0.9,false
+35,true,"Aptose Biosciences, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2006,541,$218.11,false,false,true,false,false,false,$4.40,246,5,Never,3.3,false
+36,true,"Fate Therapeutics, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1994,624,$278.25,false,false,false,false,false,true,$1.14,41,8,Yearly,2.7,false
+37,true,Costamare Inc.,n/a,2006,753,$353.75,true,true,true,false,true,false,$4.43,37,9,Weekly,4.0,true
+38,false,Silver Standard Resources Inc.,Precious Metals,2006,833,$309.32,false,true,false,false,false,false,$0.14,45,5,Often,0.7,false
+39,true,First Trust Indxx Global Natural Resources Income ETF,n/a,1987,387,$77.42,false,false,false,true,false,true,$1.82,276,12,Weekly,2.9,false
+40,true,"MSC Industrial Direct Company, Inc.",Industrial Machinery/Components,1996,116,$255.05,false,true,true,true,true,false,$1.03,327,11,Monthly,3.4,false
+41,true,Virtus Global Multi-Sector Income Fund,n/a,2005,684,$267.63,false,false,false,true,false,true,$8.05,274,7,Daily,2.0,false
+42,true,WashingtonFirst Bankshares Inc,Major Banks,2010,114,$462.89,false,true,true,true,false,false,$9.69,183,7,Never,3.3,false
+43,true,"DHT Holdings, Inc.",Marine Transportation,1989,756,$58.05,true,false,true,true,false,false,$7.82,208,12,Seldom,3.4,false
+44,true,Perion Network Ltd,EDP Services,1995,615,$48.26,true,false,false,false,false,true,$1.28,189,9,Daily,1.0,false
+45,true,Cushing Renaissance Fund (The),n/a,2010,731,$352.17,true,true,true,true,true,false,$0.43,271,2,Seldom,3.4,true
+46,true,"Customers Bancorp, Inc",n/a,1993,787,$257.23,true,true,true,false,false,false,$4.59,160,10,Monthly,2.3,true
+47,true,Capitala Finance Corp.,n/a,1991,946,$190.86,true,true,false,true,false,false,$3.77,101,7,Often,0.5,true
+48,true,"Century Bancorp, Inc.",Major Banks,1999,472,$65.26,true,false,false,false,true,false,$9.76,77,10,Seldom,2.7,true
+49,true,"Sound Financial Bancorp, Inc.",Savings Institutions,2005,451,$33.61,false,false,true,true,true,true,$4.88,54,11,Seldom,1.0,true
+50,true,Ryanair Holdings plc,Air Freight/Delivery Services,1993,669,$436.09,true,false,false,false,true,false,$2.21,102,1,Weekly,2.6,true
+51,true,iShares MSCI EAFE Small-Cap ETF,n/a,2008,27,$80.40,false,true,true,true,true,true,$1.98,48,3,Never,2.6,false
+52,true,PowerShares International BuyBack Achievers Portfolio,n/a,1993,776,$267.09,true,true,true,true,true,true,$9.13,127,2,Yearly,1.4,false
+53,true,pSivida Corp.,Biotechnology: Laboratory Analytical Instruments,1994,489,$170.08,false,false,true,true,false,true,$8.30,16,7,Seldom,1.6,false
+54,false,"T2 Biosystems, Inc.",Medical/Dental Instruments,1995,5,$23.65,true,false,true,false,false,false,$6.35,233,1,Once,3.9,false
+55,true,InVivo Therapeutics Holdings Corp.,Medical/Dental Instruments,2006,608,$66.15,true,true,false,false,false,false,$7.67,299,7,Never,1.4,false
+56,true,Advantage Oil & Gas Ltd,Oil & Gas Production,2005,598,$395.84,true,false,false,false,false,true,$3.49,327,9,Once,0.5,false
+57,true,Cemtrex Inc.,Industrial Machinery/Components,2006,284,$317.39,true,true,true,false,false,true,$4.28,310,1,Monthly,4.7,true
+58,true,Sabre Corporation,"Computer Software: Programming, Data Processing",2002,499,$99.57,true,true,true,false,true,true,$1.16,87,5,Often,4.7,true
+59,false,WashingtonFirst Bankshares Inc,Major Banks,2009,547,$341.94,false,false,true,true,true,true,$7.11,284,4,Often,0.0,false
+60,true,"Hallmark Financial Services, Inc.",Property-Casualty Insurers,1996,910,$91.96,false,true,true,true,true,false,$2.78,286,10,Seldom,2.7,true
+61,true,Gladstone Land Corporation,Real Estate Investment Trusts,1992,77,$172.95,true,false,true,true,false,true,$8.18,235,5,Weekly,1.6,false
+62,true,"CBIZ, Inc.",Business Services,1995,220,$344.51,true,false,true,true,false,false,$3.86,129,10,Seldom,2.4,true
+63,false,Progenics Pharmaceuticals Inc.,Major Pharmaceuticals,1987,744,$448.31,true,false,false,true,true,true,$2.09,234,1,Seldom,0.4,false
+64,false,GP Strategies Corporation,Other Consumer Services,1986,205,$361.02,true,false,false,true,true,true,$7.85,275,3,Once,4.6,true
+65,false,Pool Corporation,Industrial Specialties,1999,147,$181.85,false,true,false,false,false,true,$8.25,283,11,Never,1.1,true
+66,true,OHA Investment Corporation,n/a,2002,189,$310.59,true,false,false,true,false,false,$0.17,356,2,Monthly,4.0,false
+67,true,"Alico, Inc.",Farming/Seeds/Milling,2006,833,$273.13,true,false,false,true,true,false,$0.00,141,11,Yearly,4.5,false
+68,false,"AmTrust Financial Services, Inc.",n/a,1993,441,$123.37,true,false,false,false,false,true,$1.87,88,2,Daily,2.3,false
+69,true,Laboratory Corporation of America Holdings,Medical Specialities,1995,191,$456.21,true,true,false,false,true,true,$9.86,113,3,Yearly,0.4,true
+70,false,Cimpress N.V,Publishing,1998,249,$351.52,true,false,false,true,false,true,$0.88,110,3,Often,0.3,false
+71,true,Guggenheim Taxable Municipal Managed Duration Trst,n/a,1995,653,$104.97,true,true,true,true,false,false,$7.97,87,3,Monthly,4.6,false
+72,true,"Bridgepoint Education, Inc.",Other Consumer Services,1992,790,$441.11,true,true,true,false,false,true,$4.95,205,3,Weekly,2.3,false
+73,false,"Conifer Holdings, Inc.",Property-Casualty Insurers,2009,573,$175.34,true,false,false,false,true,true,$2.14,261,11,Daily,4.7,true
+74,true,"Extreme Networks, Inc.",Computer Communications Equipment,2004,330,$337.33,true,true,false,true,true,true,$4.10,88,3,Often,3.8,true
+75,false,"CryoPort, Inc.",Oil Refining/Marketing,2010,382,$187.45,false,false,true,true,false,true,$5.29,109,10,Daily,3.4,false
+76,true,Optibase Ltd.,Real Estate,1997,199,$58.80,false,false,true,false,true,true,$8.20,4,10,Daily,4.7,false
+77,true,"Donegal Group, Inc.",Property-Casualty Insurers,1989,882,$337.97,false,true,true,true,false,true,$9.09,157,4,Once,3.1,false
+78,false,"Houlihan Lokey, Inc.",Investment Managers,2009,30,$311.59,true,true,false,false,false,true,$3.25,267,8,Seldom,2.9,false
+79,true,DragonWave Inc,Telecommunications Equipment,2004,674,$116.95,false,true,false,true,true,false,$6.67,250,9,Seldom,3.9,true
+80,false,Silver Run Acquisition Corporation II,Business Services,1984,126,$448.58,false,false,true,false,false,false,$4.65,215,2,Weekly,0.8,true
+81,true,Lehman ABS Corporation,Finance: Consumer Services,1995,243,$172.69,true,false,false,false,true,false,$2.71,187,2,Never,1.5,true
+82,true,Manulife Financial Corp,Life Insurance,2002,462,$314.86,false,false,true,true,true,true,$9.93,142,9,Weekly,1.2,false
+83,false,"SiteOne Landscape Supply, Inc.",Farming/Seeds/Milling,2003,852,$98.27,false,false,true,true,false,false,$7.79,341,7,Once,4.8,false
+84,true,"Knoll, Inc.",Office Equipment/Supplies/Services,2010,221,$160.43,false,false,true,true,true,false,$5.31,211,5,Never,3.9,true
+85,false,Navigator Holdings Ltd.,Marine Transportation,1993,911,$384.08,true,true,false,true,false,true,$3.72,63,2,Often,4.6,false
+86,true,"Goldman Sachs Group, Inc. (The)",n/a,2005,719,$192.84,true,false,true,true,true,false,$1.00,12,2,Yearly,3.3,false
+87,true,"Quality Systems, Inc.",EDP Services,1999,535,$12.99,true,false,false,false,false,true,$3.83,232,1,Daily,1.6,false
+88,false,CyberOptics Corporation,Electronic Components,1989,465,$35.25,true,false,false,true,false,true,$4.77,317,1,Never,4.0,false
+89,true,Kimberly-Clark Corporation,Containers/Packaging,1998,359,$92.66,true,false,true,false,true,true,$7.56,305,2,Never,1.7,true
+90,false,"Southside Bancshares, Inc.",Major Banks,2006,385,$478.66,false,true,false,true,true,true,$6.24,162,2,Yearly,4.8,false
+91,false,"LEAP THERAPEUTICS, INC.",Biotechnology: Biological Products (No Diagnostic Substances),2001,917,$165.37,false,false,false,true,true,true,$6.80,47,5,Daily,2.1,false
+92,false,Landec Corporation,Major Chemicals,2005,675,$67.44,false,true,true,true,false,false,$3.67,88,2,Daily,4.2,false
+93,false,PIMCO California Municipal Income Fund III,n/a,2008,222,$222.89,false,true,true,true,true,false,$9.97,24,10,Yearly,0.7,true
+94,true,"Olympic Steel, Inc.",Metal Fabrications,2010,935,$50.52,true,false,true,true,false,true,$5.91,330,1,Seldom,3.1,true
+95,true,"HMN Financial, Inc.",Savings Institutions,1984,94,$90.02,false,false,true,true,true,false,$7.39,173,9,Seldom,4.8,true
+96,true,EnteroMedics Inc.,Biotechnology: Electromedical & Electrotherapeutic Apparatus,1988,14,$370.22,true,false,false,false,true,false,$4.56,190,10,Seldom,4.1,false
+97,false,"Impax Laboratories, Inc.",Major Pharmaceuticals,1992,574,$70.17,false,true,true,true,true,true,$6.46,88,3,Yearly,2.8,true
+98,true,Olin Corporation,Major Chemicals,2006,660,$77.64,true,true,true,false,false,false,$2.10,334,3,Often,0.1,false
+99,true,Global X Robotics & Artificial Intelligence ETF,n/a,2000,440,$414.83,true,false,false,false,true,false,$5.45,96,3,Never,1.3,true
+100,true,Blackstone GSO Long Short Credit Income Fund,n/a,2010,577,$294.35,true,false,true,false,false,false,$0.21,338,6,Often,3.1,false
+101,true,US Foods Holding Corp.,Food Distributors,2011,906,$12.53,true,true,false,true,true,true,$2.53,279,12,Seldom,1.1,true
+102,true,At Home Group Inc.,Home Furnishings,2011,922,$146.93,true,false,false,false,false,true,$9.47,293,9,Seldom,2.0,true
+103,false,"Clear Channel Outdoor Holdings, Inc.",Advertising,2009,745,$39.59,false,false,true,true,false,true,$7.61,221,7,Seldom,2.2,true
+104,true,Cherokee Inc.,Apparel,1994,127,$485.99,false,true,false,false,false,true,$0.85,249,6,Once,4.1,true
+105,false,Quidel Corporation,Biotechnology: In Vitro & In Vivo Diagnostic Substances,2002,619,$476.52,true,false,true,false,true,false,$0.67,229,8,Seldom,2.9,true
+106,true,"BCE, Inc.",Telecommunications Equipment,1985,44,$349.24,false,true,false,true,true,false,$4.44,141,9,Often,2.9,true
+107,false,Diana Shipping inc.,n/a,2011,996,$365.01,true,true,true,true,false,true,$0.56,46,9,Yearly,3.7,true
+108,true,"THL Credit, Inc.",n/a,2003,834,$182.99,true,false,false,true,true,true,$0.57,167,3,Never,1.7,false
+109,true,"Porter Bancorp, Inc.",Major Banks,1994,939,$133.53,false,true,true,true,true,false,$4.99,193,2,Never,0.5,false
+110,true,Lifevantage Corporation,Major Pharmaceuticals,1990,680,$449.41,false,true,true,false,false,true,$0.02,131,11,Yearly,4.6,false
+111,false,"Twenty-First Century Fox, Inc.",Television Services,1988,208,$474.30,true,false,true,true,false,false,$7.97,346,2,Daily,4.0,true
+112,false,PowerShares FTSE International Low Beta Equal Weight Portfolio,n/a,2006,433,$68.63,true,false,false,false,true,true,$0.03,348,5,Daily,4.9,false
+113,false,Vornado Realty Trust,Real Estate Investment Trusts,2002,783,$87.62,true,false,false,false,false,false,$3.08,185,11,Monthly,1.5,false
+114,false,First Trust Alternative Absolute Return Strategy ETF,n/a,2009,868,$492.97,true,true,true,false,false,true,$3.02,317,8,Seldom,2.0,false
+115,true,Harmony Merger Corp.,Oil & Gas Production,1976,876,$50.75,false,true,false,true,false,true,$9.61,332,4,Never,0.2,false
+116,false,Weingarten Realty Investors,Real Estate Investment Trusts,1986,457,$416.99,true,true,true,true,true,true,$3.24,322,11,Daily,2.3,false
+117,false,The ExOne Company,Industrial Machinery/Components,2009,695,$435.65,false,false,true,true,false,true,$1.20,153,3,Yearly,4.2,false
+118,false,"Caterpillar, Inc.",Construction/Ag Equipment/Trucks,2003,165,$476.51,false,false,false,false,false,true,$8.67,121,9,Yearly,4.4,true
+119,true,Gladstone Investment Corporation,n/a,1999,865,$452.57,true,true,true,false,true,false,$8.14,214,3,Often,2.1,false
+120,true,Pacific Special Acquisition Corp.,Business Services,1995,831,$200.30,true,true,false,false,true,true,$0.55,25,11,Weekly,2.5,true
+121,true,Amec Plc Ord,Military/Government/Technical,1986,22,$82.77,true,true,false,true,false,true,$5.63,270,1,Seldom,0.5,false
+122,false,"Idera Pharmaceuticals, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2007,860,$155.68,true,true,true,true,true,true,$8.39,293,3,Often,1.4,true
+123,true,Ascendis Pharma A/S,Major Pharmaceuticals,2003,439,$319.81,false,false,true,true,true,false,$3.26,191,11,Seldom,3.8,false
+124,true,CU Bancorp (CA),Major Banks,1997,917,$29.79,true,false,true,true,false,false,$6.89,193,8,Never,2.0,false
+125,false,Marine Petroleum Trust,Oil & Gas Production,2005,794,$429.56,false,false,false,true,true,true,$5.29,168,2,Weekly,1.2,false
+126,false,WashingtonFirst Bankshares Inc,Major Banks,2000,268,$215.54,true,false,true,true,false,false,$3.35,352,11,Never,3.5,false
+127,false,"Mueller Industries, Inc.",Metal Fabrications,1992,844,$258.97,true,true,false,true,true,true,$7.79,322,5,Daily,2.9,false
+128,true,DAVIDsTEA Inc.,Food Chains,1993,174,$135.42,true,true,true,false,false,false,$7.76,103,8,Never,2.3,false
+129,true,"Flex Pharma, Inc.",Major Pharmaceuticals,1994,88,$85.66,false,true,false,false,false,false,$1.18,32,7,Yearly,3.5,true
+130,false,DAVIDsTEA Inc.,Food Chains,1995,485,$403.44,false,false,false,true,false,false,$4.09,75,4,Seldom,0.2,false
+131,false,"Titan Pharmaceuticals, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2000,426,$285.97,true,false,true,true,false,true,$1.98,31,1,Yearly,3.8,false
+132,true,First Trust Cloud Computing ETF,n/a,1988,145,$400.09,false,true,true,false,true,false,$4.06,67,12,Never,1.3,true
+133,true,J P Morgan Chase & Co,n/a,1992,595,$99.75,true,false,true,false,true,true,$0.92,140,2,Seldom,1.1,true
+134,true,"Empire Resorts, Inc.",Restaurants,1985,649,$175.43,true,true,true,false,false,false,$0.17,111,12,Never,1.5,false
+135,true,Canada Goose Holdings Inc.,Apparel,2006,890,$378.22,false,false,false,false,false,false,$3.89,164,10,Monthly,2.4,true
+136,true,"Premier, Inc.",Other Consumer Services,2003,731,$85.58,true,false,true,true,true,false,$5.66,315,6,Monthly,0.3,true
+137,true,Arlington Asset Investment Corp,Finance/Investors Services,1992,434,$95.81,false,false,false,false,true,false,$2.61,265,8,Weekly,0.0,false
+138,true,"Heat Biologics, Inc.",Major Pharmaceuticals,2011,536,$13.92,false,false,true,true,false,true,$8.32,305,1,Weekly,2.4,false
+139,false,"Build-A-Bear Workshop, Inc.",Recreational Products/Toys,1964,856,$111.81,false,false,false,false,true,true,$7.59,176,10,Often,2.6,true
+140,false,Weatherford International plc,Metal Fabrications,1995,36,$229.41,false,true,true,true,true,false,$8.59,335,8,Once,4.2,false
+141,true,Cemtrex Inc.,Industrial Machinery/Components,1987,546,$436.05,false,true,false,true,false,true,$5.64,120,11,Once,0.5,false
+142,true,RAIT Financial Trust,Real Estate Investment Trusts,2008,858,$224.11,true,true,true,true,false,false,$1.29,103,12,Often,0.6,true
+143,false,ClearSign Combustion Corporation,Industrial Machinery/Components,1994,273,$71.19,true,false,true,true,true,true,$3.55,59,6,Monthly,0.9,false
+144,true,Williams Partners LP,Natural Gas Distribution,1983,13,$306.15,false,false,true,false,false,false,$6.69,225,2,Daily,2.8,true
+145,false,"Wynn Resorts, Limited",Hotels/Resorts,2003,704,$391.33,false,false,true,false,false,false,$6.97,196,12,Seldom,4.5,false
+146,false,American Superconductor Corporation,Metal Fabrications,1996,80,$304.35,false,false,true,false,false,true,$6.47,52,5,Often,4.4,false
+147,true,"Nuveen New York Municipal Value Fund, Inc.",n/a,2007,179,$238.57,true,true,true,true,true,false,$8.27,31,1,Monthly,1.0,true
+148,false,Cooper Tire & Rubber Company,Automotive Aftermarket,2004,87,$366.88,true,false,false,false,true,true,$2.01,59,2,Monthly,1.8,true
+149,true,"Spectrum Pharmaceuticals, Inc.",Major Pharmaceuticals,1992,816,$74.15,true,false,true,true,false,true,$3.17,84,8,Daily,3.2,false
+150,false,Matlin & Partners Acquisition Corporation,Business Services,2001,515,$330.68,true,false,true,false,false,false,$5.11,189,6,Yearly,2.0,false
+151,true,Invesco Quality Municipal Income Trust,n/a,1994,316,$410.48,false,false,false,true,true,false,$4.83,215,3,Often,0.8,true
+152,true,"ADOMANI, Inc.",n/a,2009,173,$337.08,true,true,false,false,true,false,$3.65,222,6,Monthly,3.6,true
+153,true,Gencor Industries Inc.,Construction/Ag Equipment/Trucks,2012,928,$274.06,false,true,false,false,true,true,$5.08,35,11,Once,3.8,true
+154,false,"Synthesis Energy Systems, Inc.",Major Chemicals,1998,312,$34.78,true,true,false,false,false,false,$4.59,237,10,Seldom,0.7,false
+155,false,First Trust Nasdaq Retail ETF,n/a,2000,554,$374.21,false,true,true,true,false,true,$1.60,239,2,Often,2.3,true
+156,true,"Zafgen, Inc.",Major Pharmaceuticals,2009,305,$267.94,false,false,false,false,true,true,$2.95,143,1,Yearly,0.9,true
+157,false,PHH Corp,Diversified Financial Services,2001,4,$491.25,true,false,false,false,true,false,$9.63,225,5,Once,0.1,false
+158,false,Nordic American Offshore Ltd,Marine Transportation,2002,625,$63.40,false,true,false,false,true,true,$4.66,88,7,Often,2.6,false
+159,true,Boulevard Acquisition Corp. II,Business Services,2006,633,$165.91,false,false,false,true,true,true,$2.94,77,3,Never,1.8,true
+160,true,"Onconova Therapeutics, Inc.",Major Pharmaceuticals,1986,212,$349.85,false,false,false,true,false,true,$3.21,35,6,Seldom,3.0,true
+161,false,Grupo Supervielle S.A.,Commercial Banks,2010,674,$56.63,true,false,true,true,false,true,$3.92,115,5,Monthly,2.0,false
+162,true,Long Island Iced Tea Corp.,Beverages (Production/Distribution),1998,792,$346.75,true,false,false,false,false,true,$6.72,263,5,Once,2.5,false
+163,true,"Key Technology, Inc.",Industrial Machinery/Components,1995,799,$476.07,true,false,false,false,false,false,$9.98,256,10,Weekly,3.7,false
+164,true,La-Z-Boy Incorporated,Home Furnishings,1996,486,$337.83,true,false,true,false,true,true,$6.60,175,11,Yearly,3.7,false
+165,false,"PowerShares QQQ Trust, Series 1",n/a,1979,617,$351.79,false,true,true,true,true,false,$4.64,358,10,Never,4.8,true
+166,false,Deutsche Bank AG,Major Banks,2007,50,$452.64,false,true,true,true,false,true,$9.19,302,11,Yearly,0.3,false
+167,true,X-Links Gold Shares Covered Call ETN,Investment Bankers/Brokers/Service,2000,391,$398.00,true,false,false,true,true,false,$8.13,70,4,Seldom,4.0,false
+168,true,"PhaseRx, Inc.",Major Pharmaceuticals,1995,254,$253.82,false,true,true,false,false,true,$5.25,325,9,Weekly,0.4,true
+169,true,Nuveen Senior Income Fund,n/a,2005,312,$174.40,false,false,true,true,false,false,$3.20,87,11,Seldom,3.2,false
+170,false,Public Storage,Real Estate Investment Trusts,2004,890,$98.06,true,true,true,true,true,true,$8.28,133,11,Never,1.5,true
+171,false,"Agilent Technologies, Inc.",Biotechnology: Laboratory Analytical Instruments,1999,414,$246.14,false,false,true,true,false,false,$9.95,67,5,Monthly,4.8,false
+172,false,Hallador Energy Company,Coal Mining,1992,954,$270.93,true,true,true,false,true,false,$4.27,313,10,Never,5.0,false
+173,false,Colonial Municipal Income Trust,n/a,1999,568,$91.28,true,true,false,true,true,true,$1.62,201,5,Daily,2.1,false
+174,true,First Trust Latin America AlphaDEX Fund,n/a,1909,329,$496.74,true,true,true,true,false,true,$7.50,217,8,Weekly,1.9,true
+175,false,Stellus Capital Investment Corporation,n/a,2000,295,$150.29,true,true,true,false,false,true,$6.45,134,7,Often,1.3,true
+176,true,Guggenheim Credit Allocation Fund,n/a,2001,535,$145.49,true,false,true,true,false,false,$5.03,140,3,Once,4.8,false
+177,false,Capital One Financial Corporation,n/a,2010,80,$178.14,false,false,false,false,true,false,$6.99,320,8,Monthly,3.8,true
+178,true,Hovnanian Enterprises Inc,Homebuilding,2003,791,$169.05,false,false,true,true,true,true,$5.78,211,3,Seldom,4.5,false
+179,false,"Donegal Group, Inc.",Property-Casualty Insurers,2001,256,$292.71,true,true,true,false,false,false,$2.47,212,8,Yearly,0.1,false
+180,false,Global Partner Acquisition Corp.,Hospital/Nursing Management,2006,158,$253.45,false,false,false,false,true,false,$1.18,17,1,Seldom,4.1,false
+181,true,"B. Riley Financial, Inc.",Business Services,2003,937,$287.60,true,true,false,false,true,false,$0.29,266,12,Monthly,4.0,false
+182,true,Seadrill Limited,Oil & Gas Production,2008,550,$358.28,false,false,true,false,false,false,$2.41,204,10,Daily,4.1,false
+183,true,Brainstorm Cell Therapeutics Inc.,Biotechnology: Biological Products (No Diagnostic Substances),1992,277,$281.34,true,false,true,false,false,true,$3.01,84,11,Often,3.7,true
+184,false,SPDR Dorsey Wright Fixed Income Allocation ETF,n/a,2004,659,$224.58,false,true,true,true,true,true,$2.54,44,2,Monthly,0.9,true
+185,true,"NiSource, Inc",Power Generation,2001,137,$466.73,false,true,true,true,true,true,$4.69,279,6,Weekly,2.2,true
+186,false,"Intermolecular, Inc.",Semiconductors,2010,137,$155.00,false,false,true,true,true,true,$6.30,168,1,Often,3.1,false
+187,true,"Trupanion, Inc.",Medical Specialities,2012,664,$350.77,false,false,false,false,true,false,$6.53,36,4,Weekly,0.4,true
+188,true,"ONE Gas, Inc.",Oil/Gas Transmission,2004,161,$92.63,true,false,false,true,false,false,$9.78,105,3,Weekly,2.1,false
+189,true,First Trust Emerging Markets Local Currency Bond ETF,n/a,2013,340,$366.22,false,false,true,false,false,true,$6.39,56,3,Weekly,4.2,true
+190,true,Western Alliance Bancorporation,Major Banks,1968,360,$378.45,true,false,true,false,false,false,$8.07,216,3,Weekly,2.4,true
+191,false,First Trust Alternative Absolute Return Strategy ETF,n/a,2011,740,$479.63,true,false,false,false,true,false,$4.34,247,5,Seldom,2.6,false
+192,false,Janus Henderson SG Global Quality Income ETF,n/a,2012,544,$266.26,false,false,true,false,false,true,$4.00,167,6,Daily,5.0,true
+193,true,"Gartner, Inc.",Other Consumer Services,2010,556,$57.57,false,false,false,true,false,false,$5.93,308,1,Never,3.0,false
+194,true,"Sensus Healthcare, Inc.",Medical/Dental Instruments,2007,270,$439.53,false,true,false,false,false,true,$6.48,352,7,Often,3.5,true
+195,false,"Depomed, Inc.",Major Pharmaceuticals,2012,909,$153.36,true,true,true,false,true,false,$4.02,6,7,Monthly,1.6,true
+196,true,First Trust Indxx Global Agriculture ETF,n/a,1993,50,$457.25,true,true,true,true,true,false,$9.96,237,2,Once,2.8,true
+197,false,MYOS RENS Technology Inc.,Major Pharmaceuticals,1994,947,$490.64,false,false,false,true,true,true,$5.03,103,10,Monthly,3.3,false
+198,true,"Mitcham Industries, Inc.",Diversified Commercial Services,2012,684,$305.07,false,true,true,true,true,false,$4.77,100,8,Never,3.8,true
+199,true,"Nasdaq, Inc.",Investment Bankers/Brokers/Service,2008,384,$85.62,true,false,true,false,false,false,$5.19,127,3,Once,4.6,true
+200,true,OceanFirst Financial Corp.,Savings Institutions,2006,650,$150.60,true,true,true,true,false,true,$9.88,196,4,Once,2.4,false
+201,true,Amphenol Corporation,Electrical Products,2005,941,$1.26,true,false,true,true,true,true,$8.22,74,9,Once,4.1,false
+202,true,"MBIA, Inc.",Property-Casualty Insurers,1998,824,$166.98,true,false,true,false,true,true,$0.14,348,5,Once,2.1,true
+203,false,"Industrias Bachoco, S.A. de C.V.",Meat/Poultry/Fish,1992,267,$138.47,true,false,true,false,true,false,$6.34,284,1,Yearly,4.6,false
+204,true,"AmeriGas Partners, L.P.",Other Specialty Stores,1992,473,$78.34,false,true,true,false,true,true,$0.97,146,8,Yearly,4.3,true
+205,false,Eagle Bulk Shipping Inc.,Marine Transportation,2007,846,$174.89,true,false,false,true,false,true,$4.72,162,11,Daily,1.9,false
+206,false,"Wheeler Real Estate Investment Trust, Inc.",Real Estate Investment Trusts,2007,228,$291.36,true,true,false,true,false,false,$6.84,1,4,Often,0.0,true
+207,true,"HFF, Inc.",Real Estate,2010,300,$472.03,true,false,false,true,true,false,$5.98,349,10,Daily,1.0,true
+208,true,iPath US Treasury Long Bond Bear ETN,Commercial Banks,2003,750,$320.98,false,true,true,true,true,false,$4.39,98,6,Never,4.1,true
+209,false,Stantec Inc,Military/Government/Technical,1998,416,$201.36,true,false,false,true,true,false,$0.40,54,1,Monthly,2.8,true
+210,false,"NanoString Technologies, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2000,284,$277.16,false,true,true,true,false,false,$3.92,137,4,Weekly,3.7,true
+211,false,Boulevard Acquisition Corp. II,Business Services,2012,356,$145.90,true,true,false,false,true,false,$1.26,93,12,Once,3.6,false
+212,false,"Threshold Pharmaceuticals, Inc.",Major Pharmaceuticals,2007,189,$195.10,false,true,true,true,true,false,$6.76,196,1,Weekly,1.5,false
+213,true,First Trust High Yield Long/Short ETF,n/a,1989,279,$212.37,false,false,false,true,true,true,$9.93,51,4,Yearly,3.4,true
+214,true,John Hancock Tax Advantaged Dividend Income Fund,n/a,2010,433,$404.70,false,false,true,false,true,true,$4.70,66,8,Monthly,2.6,true
+215,true,"WellCare Health Plans, Inc.",Medical Specialities,1994,597,$78.56,true,false,false,false,true,true,$8.32,338,1,Weekly,3.5,true
+216,false,DXC Technology Company,EDP Services,2000,545,$367.22,true,true,true,false,true,true,$7.80,298,6,Daily,3.2,false
+217,false,Hyatt Hotels Corporation,Hotels/Resorts,1986,66,$23.62,false,false,true,true,false,true,$8.54,263,9,Weekly,2.6,false
+218,false,"The Andersons, Inc.",Farming/Seeds/Milling,2010,565,$90.29,false,true,false,true,false,true,$2.55,215,1,Weekly,3.3,false
+219,false,"Century Communities, Inc.",Homebuilding,1995,717,$133.70,false,false,false,false,false,true,$0.93,116,3,Monthly,3.2,false
+220,false,Kemet Corporation,Electrical Products,2003,507,$365.77,true,true,true,true,false,false,$1.52,337,7,Daily,4.0,true
+221,true,"Herman Miller, Inc.",Office Equipment/Supplies/Services,1995,449,$140.85,true,true,true,false,false,false,$8.16,118,2,Daily,3.8,true
+222,true,Ciena Corporation,Telecommunications Equipment,1998,902,$114.15,false,true,false,false,false,true,$4.65,19,8,Yearly,2.6,true
+223,true,"Magyar Bancorp, Inc.",Savings Institutions,1994,739,$443.61,true,false,false,false,true,true,$5.45,60,5,Yearly,1.5,false
+224,false,WisdomTree Western Asset Unconstrained Bond Fund,n/a,2003,572,$8.09,false,true,false,true,false,false,$9.72,237,9,Often,3.5,false
+225,true,"PNC Financial Services Group, Inc. (The)",n/a,2000,90,$5.84,false,false,true,false,true,true,$8.97,51,1,Seldom,0.7,false
+226,false,ENDRA Life Sciences Inc.,n/a,1989,681,$205.13,false,true,true,true,true,false,$2.47,360,6,Monthly,4.1,true
+227,false,Cintas Corporation,Apparel,1997,72,$464.31,false,true,true,false,false,false,$9.81,246,5,Yearly,4.8,false
+228,true,Welltower Inc.,Real Estate Investment Trusts,1993,551,$266.25,false,false,false,false,true,false,$6.09,221,9,Never,2.9,false
+229,true,SandRidge Mississippian Trust I,Oil & Gas Production,1994,327,$452.93,true,false,true,true,true,true,$5.99,329,6,Seldom,0.4,true
+230,true,"Comstock Holding Companies, Inc.",Homebuilding,1996,101,$281.68,true,false,false,true,true,false,$7.51,159,3,Seldom,4.1,false
+231,true,Western Asset Global Corporate Defined Opportunity Fund Inc.,n/a,1995,327,$295.97,true,false,true,true,true,false,$7.37,301,9,Daily,3.5,true
+232,true,FIRST REPUBLIC BANK,n/a,2012,390,$60.82,true,true,true,true,true,true,$1.82,40,8,Yearly,1.9,false
+233,false,Deutsche Bank AG,Major Banks,1998,224,$67.31,false,false,true,true,false,true,$7.61,129,6,Weekly,2.5,false
+234,true,Salient Midstream & MLP Fund,n/a,1987,42,$480.18,false,true,true,true,false,true,$1.47,303,2,Often,2.0,true
+235,false,Zion Oil & Gas Inc,Oil & Gas Production,2009,717,$10.60,true,true,true,false,true,false,$3.30,253,12,Weekly,3.7,false
+236,false,"China Lodging Group, Limited",Hotels/Resorts,2005,74,$441.31,false,false,false,true,false,false,$7.24,190,1,Once,4.9,true
+237,true,Artesian Resources Corporation,Water Supply,1998,841,$63.18,false,true,true,true,false,true,$1.21,316,8,Monthly,1.0,false
+238,false,Houston Wire & Cable Company,Telecommunications Equipment,2005,104,$342.11,true,true,true,true,false,false,$1.84,333,8,Seldom,3.0,true
+239,true,Banco Bradesco Sa,Major Banks,1995,831,$13.28,false,false,true,true,false,true,$0.29,300,11,Never,3.2,false
+240,true,Cypress Semiconductor Corporation,Semiconductors,2005,953,$157.74,false,true,false,false,false,false,$7.11,22,6,Often,2.7,false
+241,false,"Lakeland Bancorp, Inc.",Major Banks,2006,694,$189.83,false,false,true,false,false,true,$1.57,202,9,Daily,1.8,true
+242,false,CYREN Ltd.,Computer Software: Prepackaged Software,2011,587,$435.62,false,true,false,true,true,false,$2.11,270,4,Never,3.6,false
+243,true,iShares Commodities Select Strategy ETF,n/a,2002,889,$225.82,true,true,false,false,true,false,$7.13,9,2,Daily,4.7,true
+244,true,ITT Inc.,Fluid Controls,2007,387,$413.18,false,false,false,true,true,true,$6.79,110,12,Monthly,4.7,false
+245,false,PowerShares High Yield Equity Dividend Achievers Portfolio,n/a,2008,800,$351.10,false,true,false,false,true,false,$8.14,2,1,Once,3.6,false
+246,true,iSectors Post-MPT Growth ETF,n/a,2010,109,$372.01,false,false,true,false,true,false,$0.01,299,1,Monthly,1.2,false
+247,false,"SunTrust Banks, Inc.",Major Banks,1992,836,$124.71,false,false,true,true,true,true,$3.20,82,1,Monthly,1.4,false
+248,false,"Continental Resources, Inc.",Oil & Gas Production,1992,792,$281.06,false,true,false,true,false,true,$5.24,202,8,Monthly,4.9,true
+249,false,"Mirati Therapeutics, Inc.",Major Pharmaceuticals,2006,475,$141.57,true,true,false,true,false,false,$7.88,127,5,Daily,4.7,false
+250,true,"Vivint Solar, Inc.",Building Products,2002,895,$330.94,true,false,true,false,true,true,$0.26,175,3,Monthly,4.4,true
+251,true,UroGen Pharma Ltd.,Major Pharmaceuticals,2012,332,$263.78,false,true,false,true,true,true,$4.02,46,10,Daily,2.2,true
+252,false,"Marten Transport, Ltd.",Trucking Freight/Courier Services,2006,10,$469.38,false,true,false,true,false,true,$7.71,302,6,Weekly,2.8,true
+253,false,First Trust Japan AlphaDEX Fund,n/a,2006,28,$64.76,false,false,false,false,false,false,$9.09,110,2,Once,3.8,false
+254,false,The Charles Schwab Corporation,n/a,1995,89,$495.95,true,false,true,false,false,true,$1.55,227,12,Weekly,3.1,true
+255,false,Nuveen Core Equity Alpha Fund,n/a,2009,495,$335.57,true,false,true,false,false,false,$1.82,240,9,Yearly,3.1,false
+256,true,Consolidated Edison Inc,Power Generation,1993,736,$320.99,true,false,false,false,false,false,$3.91,7,10,Monthly,4.0,true
+257,true,Embotelladora Andina S.A.,n/a,2009,289,$102.63,false,false,false,true,false,false,$1.08,110,6,Monthly,2.8,true
+258,false,Coca-Cola Company (The),Beverages (Production/Distribution),2000,545,$188.86,false,true,false,true,false,false,$0.30,57,9,Weekly,2.4,true
+259,true,"51job, Inc.",Diversified Commercial Services,2012,64,$166.44,false,false,true,false,false,false,$9.04,146,3,Daily,3.6,true
+260,false,"Selective Insurance Group, Inc.",Property-Casualty Insurers,2011,905,$96.14,false,false,false,true,true,true,$9.13,134,7,Seldom,2.3,true
+261,true,"Pacific Biosciences of California, Inc.",Biotechnology: Laboratory Analytical Instruments,1993,966,$51.21,false,true,true,false,false,true,$5.61,156,6,Weekly,1.2,false
+262,false,Barings Corporate Investors,n/a,2007,146,$386.49,true,false,true,false,false,true,$4.24,18,12,Never,3.0,false
+263,true,Microsemi Corporation,Semiconductors,1973,998,$438.23,true,false,true,false,false,true,$3.13,131,2,Seldom,3.0,false
+264,true,"Independent Bank Group, Inc",Major Banks,1978,304,$42.17,true,true,false,false,true,false,$6.43,276,7,Yearly,1.7,true
+265,true,"Maximus, Inc.",Business Services,2002,715,$126.07,false,true,true,false,false,false,$0.89,272,10,Weekly,3.1,true
+266,true,"Activision Blizzard, Inc",Computer Software: Prepackaged Software,2010,762,$118.49,true,false,true,false,false,false,$4.47,149,12,Yearly,2.8,false
+267,true,First Trust Small Cap Growth AlphaDEX Fund,n/a,2010,927,$152.65,true,false,false,false,true,true,$2.20,303,6,Often,3.5,true
+268,false,Iridium Communications Inc,Telecommunications Equipment,2002,50,$71.87,false,false,false,true,false,false,$5.26,357,5,Never,0.5,true
+269,false,OFG Bancorp,n/a,2010,17,$164.56,true,false,true,true,false,false,$1.43,261,9,Daily,2.8,false
+270,true,Harmony Gold Mining Company Limited,Precious Metals,2008,540,$305.12,true,false,true,false,false,false,$1.89,207,8,Weekly,2.8,false
+271,false,BB&T Corporation,n/a,2008,536,$208.60,true,false,false,true,false,true,$9.42,314,9,Never,2.4,true
+272,true,"M I Acquisitions, Inc.",n/a,1999,420,$118.87,true,true,true,true,false,false,$1.69,62,4,Seldom,1.1,false
+273,true,Nova Measuring Instruments Ltd.,Electronic Components,2009,320,$11.11,false,false,true,true,false,false,$8.85,327,7,Often,0.5,true
+274,false,Mobileye N.V.,Computer Software: Prepackaged Software,2002,864,$245.02,false,true,false,true,true,true,$5.25,14,5,Never,1.6,true
+275,false,Advent/Claymore Enhanced Growth & Income Fund,n/a,2007,243,$333.91,false,false,false,false,false,true,$7.67,74,10,Once,0.8,false
+276,true,S&P Global Inc.,Finance: Consumer Services,1995,984,$175.07,false,false,true,true,false,true,$9.57,285,9,Never,1.1,false
+277,false,Noah Holdings Ltd.,Investment Managers,2009,286,$29.97,true,false,true,false,true,false,$2.41,39,9,Yearly,3.0,true
+278,false,VictoryShares US Discovery Enhanced Volatility Wtd ETF,n/a,1996,636,$198.48,false,true,false,false,true,false,$7.05,182,1,Never,2.3,false
+279,true,Eltek Ltd.,Electrical Products,1996,261,$210.08,true,true,false,true,false,true,$7.44,299,2,Never,1.8,false
+280,true,"PayPal Holdings, Inc.",Business Services,2008,550,$438.49,true,false,true,false,false,true,$7.01,221,1,Once,3.2,false
+281,false,Stone Harbor Emerging Markets Total Income Fund,n/a,2004,749,$162.14,true,false,false,true,true,false,$3.86,166,8,Monthly,1.6,true
+282,true,Ferro Corporation,Paints/Coatings,2006,289,$341.41,false,false,true,true,true,false,$8.65,307,8,Yearly,1.8,true
+283,false,"GlycoMimetics, Inc.",Major Pharmaceuticals,1995,376,$263.79,false,true,false,true,true,true,$8.47,207,6,Weekly,0.6,true
+284,true,BioShares Biotechnology Products Fund,n/a,1998,557,$452.57,false,false,true,true,false,false,$3.35,79,9,Yearly,3.6,true
+285,false,"Align Technology, Inc.",Industrial Specialties,2010,80,$468.70,false,false,false,false,false,false,$9.65,61,10,Daily,1.2,true
+286,true,"Arista Networks, Inc.",Computer Communications Equipment,1992,74,$495.32,true,false,true,false,false,true,$1.38,14,6,Seldom,2.7,true
+287,true,Intec Pharma Ltd.,Major Pharmaceuticals,2000,603,$306.29,true,false,true,false,false,true,$2.41,292,10,Often,3.3,true
+288,false,Marin Software Incorporated,EDP Services,1986,951,$327.39,false,false,false,false,true,false,$3.35,313,1,Weekly,0.2,false
+289,true,Parker-Hannifin Corporation,Metal Fabrications,1984,383,$496.52,false,false,true,false,true,true,$3.00,26,2,Weekly,2.8,false
+290,true,"Sally Beauty Holdings, Inc.",Other Specialty Stores,1990,128,$457.98,false,true,true,true,false,false,$5.06,204,4,Daily,4.0,false
+291,false,Diageo plc,Beverages (Production/Distribution),1966,244,$468.97,true,false,true,false,true,true,$6.23,65,1,Once,3.7,false
+292,true,"MaxLinear, Inc",Semiconductors,2006,187,$138.73,true,false,false,false,true,true,$3.69,26,3,Monthly,0.7,true
+293,true,W.R. Berkley Corporation,Property-Casualty Insurers,2008,373,$386.46,false,true,true,true,true,true,$10.00,250,1,Never,1.5,false
+294,false,"CB Financial Services, Inc.",Major Banks,1992,547,$184.68,false,true,true,true,true,true,$8.38,25,2,Never,2.6,true
+295,false,"WPX Energy, Inc.",Oil & Gas Production,1992,383,$217.75,true,true,false,false,true,false,$7.36,329,2,Often,4.5,false
+296,true,"New Relic, Inc.",Computer Software: Prepackaged Software,1996,798,$126.31,true,false,false,false,true,true,$7.74,333,8,Yearly,4.1,false
+297,true,CHS Inc,Farming/Seeds/Milling,2005,439,$0.61,true,false,true,true,true,true,$0.45,196,11,Often,4.8,false
+298,true,"Qorvo, Inc.",Semiconductors,1994,837,$487.79,false,true,false,false,false,true,$5.22,115,11,Yearly,0.1,false
+299,false,"Proteostasis Therapeutics, Inc.",Major Pharmaceuticals,1998,79,$24.10,true,false,true,true,false,true,$9.24,201,1,Yearly,0.6,false
+300,true,"Peak Resorts, Inc.",Hotels/Resorts,2003,312,$376.31,false,true,false,false,false,false,$1.67,8,5,Often,0.9,true
+301,true,Citigroup Inc.,n/a,1993,842,$407.59,false,false,true,true,true,true,$5.52,320,2,Daily,0.6,false
+302,false,"Tilly&#39;s, Inc.",Clothing/Shoe/Accessory Stores,2011,203,$479.60,false,false,false,false,true,false,$7.50,194,11,Never,3.9,true
+303,false,IQ Chaikin U.S. Small Cap ETF,n/a,2011,752,$498.26,false,false,false,false,true,false,$3.19,233,5,Seldom,1.2,true
+304,false,Citigroup Inc.,n/a,2009,223,$398.38,false,true,true,true,false,true,$9.10,299,7,Never,1.8,true
+305,false,First Trust High Yield Long/Short ETF,n/a,2004,848,$388.47,true,true,false,false,true,false,$4.05,127,1,Monthly,2.3,false
+306,false,"Interpace Diagnostics Group, Inc.",Medical/Dental Instruments,2005,221,$237.17,true,false,false,false,false,false,$3.10,125,9,Weekly,4.8,false
+307,true,"Stratasys, Ltd.",Computer peripheral equipment,1996,235,$101.37,false,true,true,false,true,true,$2.84,53,3,Never,3.1,false
+308,false,BlackRock Multi-Sector Income Trust,n/a,2004,897,$134.38,true,true,true,false,true,false,$9.19,86,6,Yearly,4.4,true
+309,false,"Manning & Napier, Inc.",Investment Managers,1999,955,$63.58,false,false,false,true,true,false,$8.43,95,9,Once,1.1,true
+310,false,Dover Corporation,Industrial Machinery/Components,2007,843,$394.95,true,true,false,true,true,false,$7.38,283,8,Yearly,1.2,false
+311,false,PartnerRe Ltd.,n/a,2009,428,$354.57,false,true,true,true,true,false,$4.08,202,1,Yearly,1.5,false
+312,true,Danaher Corporation,Industrial Machinery/Components,2001,456,$35.81,false,true,false,true,true,false,$7.34,23,12,Never,3.0,false
+313,false,Five Oaks Investment Corp.,n/a,1999,162,$352.40,true,false,false,false,false,true,$0.26,69,4,Daily,1.0,true
+314,true,Arlington Asset Investment Corp,Finance/Investors Services,1998,40,$12.21,false,false,false,false,false,false,$1.08,43,3,Once,1.1,true
+315,true,Transglobe Energy Corp,Oil & Gas Production,2007,347,$449.32,false,true,false,true,false,false,$7.31,306,7,Often,0.8,true
+316,false,Lazard Ltd.,Investment Managers,2002,176,$18.76,true,true,false,true,false,true,$3.98,234,4,Never,1.9,true
+317,false,"BSB Bancorp, Inc.",Major Banks,2006,759,$371.95,true,true,true,true,false,false,$4.91,159,12,Monthly,3.0,false
+318,false,"Cellectar Biosciences, Inc.",Major Pharmaceuticals,2002,422,$347.23,false,false,false,true,true,false,$0.67,348,3,Once,2.5,false
+319,false,58.com Inc.,"Computer Software: Programming, Data Processing",1989,13,$308.11,true,false,false,true,true,true,$5.70,41,11,Never,0.1,false
+320,false,Allstate Corporation (The),n/a,1998,329,$119.50,true,false,false,false,false,true,$6.74,291,2,Daily,1.5,true
+321,false,Echelon Corporation,Computer Communications Equipment,1997,139,$303.67,false,false,true,false,true,false,$5.20,335,9,Yearly,3.2,true
+322,false,Sapiens International Corporation N.V.,Computer Software: Prepackaged Software,1996,508,$286.26,true,false,false,true,true,false,$3.32,362,12,Weekly,2.4,true
+323,false,"Castlight Health, inc.",EDP Services,1998,93,$125.20,false,true,false,true,false,true,$0.29,25,8,Yearly,4.1,true
+324,false,Wright Medical Group N.V.,Industrial Specialties,2004,384,$302.68,false,true,false,false,true,true,$2.94,209,2,Seldom,4.6,true
+325,false,"Agios Pharmaceuticals, Inc.",Major Pharmaceuticals,2002,930,$386.52,false,false,false,true,true,true,$5.96,49,4,Often,4.9,true
+326,true,Trinseo S.A.,Major Chemicals,2006,719,$423.14,false,true,false,true,true,false,$7.17,59,11,Daily,1.3,false
+327,true,Tsakos Energy Navigation Ltd,n/a,2006,290,$395.94,true,false,false,false,false,false,$3.47,272,6,Yearly,0.3,false
+328,false,"Viking Therapeutics, Inc.",Major Pharmaceuticals,1999,117,$118.44,true,false,false,false,true,false,$2.13,183,12,Weekly,0.4,false
+329,false,Capital One Financial Corporation,n/a,2003,291,$109.66,true,false,false,true,false,true,$7.29,123,10,Yearly,4.5,true
+330,true,"Luby&#39;s, Inc.",Restaurants,2001,848,$175.47,false,false,false,true,false,true,$0.87,193,12,Never,4.3,true
+331,true,Pebblebrook Hotel Trust,n/a,1993,34,$169.59,false,true,false,false,true,true,$0.30,242,10,Daily,0.8,true
+332,true,"NI Holdings, Inc.",Property-Casualty Insurers,2005,971,$197.56,true,false,false,true,false,false,$8.62,135,8,Never,2.6,true
+333,false,"Gulf Resources, Inc.",Major Chemicals,2005,795,$174.22,false,true,false,false,false,false,$3.69,323,6,Daily,3.4,true
+334,true,"Maiden Holdings, Ltd.",n/a,1985,987,$338.73,true,false,false,true,true,true,$1.76,33,4,Once,3.6,false
+335,true,"Advaxis, Inc.",Major Pharmaceuticals,2004,433,$22.11,false,false,false,false,false,false,$1.87,253,10,Never,5.0,false
+336,true,Tennant Company,Industrial Machinery/Components,2005,705,$118.91,false,true,false,false,false,true,$3.04,328,10,Often,4.6,true
+337,true,CymaBay Therapeutics Inc.,Major Pharmaceuticals,2012,330,$126.60,false,true,true,true,true,true,$5.69,294,8,Never,1.4,true
+338,true,"Minerva Neurosciences, Inc",Major Pharmaceuticals,2010,125,$64.22,false,false,true,false,true,false,$0.30,290,1,Often,4.6,false
+339,true,HNI Corporation,Office Equipment/Supplies/Services,2002,208,$437.60,true,false,true,false,false,false,$9.90,227,1,Once,4.8,true
+340,true,Randgold Resources Limited,Precious Metals,2004,808,$49.94,false,true,false,true,true,true,$1.33,37,9,Often,2.5,false
+341,true,Amaya Inc.,"Computer Software: Programming, Data Processing",2003,181,$450.43,false,false,false,true,false,true,$2.43,214,5,Never,4.6,false
+342,false,"Heron Therapeutics, Inc.  ",Major Pharmaceuticals,1977,402,$112.71,true,false,false,true,true,true,$9.39,263,5,Daily,2.3,false
+343,true,"Aptose Biosciences, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2001,949,$12.16,false,true,false,true,false,false,$2.04,242,4,Often,4.6,false
+344,true,Eaton Vance High Income 2021 Target Term Trust,n/a,2012,10,$36.78,false,true,true,false,false,true,$0.59,23,11,Once,0.7,true
+345,true,"Lake Shore Bancorp, Inc.",Savings Institutions,2011,744,$183.26,true,false,false,true,true,false,$7.80,320,6,Never,4.7,false
+346,false,iShares MSCI Europe Financials Sector Index Fund,n/a,2003,493,$175.86,true,false,true,true,false,true,$7.27,77,7,Seldom,2.6,false
+347,true,"NuVasive, Inc.",Medical/Dental Instruments,2002,236,$481.03,false,false,false,false,true,true,$6.50,39,3,Seldom,3.3,false
+348,false,1st Source Corporation,Major Banks,2006,255,$206.13,false,true,true,false,true,false,$0.45,35,9,Weekly,1.1,true
+349,false,"Blackrock MuniYield California Fund, Inc.",n/a,2003,313,$181.24,true,false,true,false,true,false,$1.07,236,7,Daily,4.8,true
+350,true,Ambev S.A.,Beverages (Production/Distribution),2007,931,$453.51,false,false,true,false,false,false,$7.82,184,10,Never,1.2,true
+351,false,"Under Armour, Inc.",Apparel,2007,515,$411.79,true,false,true,false,true,true,$0.30,23,4,Seldom,0.4,false
+352,false,Nuveen Massachusetts Municipal Income Fund,n/a,2009,811,$247.08,false,false,false,false,false,false,$8.87,30,2,Once,0.1,true
+353,true,"CareDx, Inc.",Medical Specialities,2009,488,$330.90,false,true,true,true,false,false,$7.77,72,5,Once,2.1,true
+354,true,First Trust South Korea AlphaDEX Fund,n/a,2000,627,$105.55,false,true,true,false,true,false,$1.46,269,10,Once,1.0,true
+355,false,"Bojangles&#39;, Inc.",Restaurants,2006,895,$165.42,true,true,false,true,false,true,$3.04,87,6,Seldom,3.5,false
+356,false,"LogMein, Inc.",n/a,1990,746,$374.95,true,false,true,true,false,true,$7.77,211,1,Weekly,0.1,false
+357,true,"NCI, Inc.",EDP Services,2010,319,$475.50,false,false,true,true,false,true,$0.26,140,4,Once,2.7,true
+358,true,"LightPath Technologies, Inc.",Semiconductors,2004,367,$363.23,false,false,true,true,false,true,$2.38,159,4,Monthly,4.3,false
+359,false,Quinpario Acquisition Corp. 2,Business Services,2006,751,$222.23,true,true,false,true,true,false,$2.63,256,6,Weekly,0.2,true
+360,false,Navios Maritime Midstream Partners LP,n/a,2008,805,$497.64,true,true,false,false,true,false,$1.72,335,5,Weekly,4.8,true
+361,false,Icahn Enterprises L.P.,Auto Parts:O.E.M.,2008,162,$6.10,false,false,true,false,true,false,$2.07,226,12,Never,3.3,false
+362,true,iShares Global Infrastructure ETF,n/a,1986,231,$167.91,false,true,false,false,true,true,$3.91,316,8,Daily,1.0,true
+363,false,Principal Healthcare Innovators Index ETF,n/a,2011,972,$265.96,true,false,false,false,true,false,$9.17,174,3,Weekly,0.6,false
+364,false,Boulevard Acquisition Corp. II,Business Services,2011,991,$411.29,true,true,true,false,true,true,$5.05,66,2,Monthly,2.3,true
+365,true,Quest Diagnostics Incorporated,Medical Specialities,1997,893,$113.76,true,true,true,true,false,false,$1.64,217,5,Yearly,3.7,true
+366,false,Michael Kors Holdings Limited,Apparel,2003,200,$298.38,false,true,false,false,false,false,$4.34,81,9,Seldom,3.5,false
+367,false,Centrais Electricas Brasileiras S.A.- Eletrobras,Electric Utilities: Central,2007,835,$277.98,true,false,false,false,false,true,$2.77,253,5,Yearly,4.5,true
+368,true,"Tetra Tech, Inc.",Military/Government/Technical,2011,958,$167.62,true,true,false,true,true,true,$1.72,252,7,Seldom,1.9,true
+369,true,"Trinity Industries, Inc.",Railroads,2008,505,$219.43,false,false,false,true,true,true,$8.49,18,11,Daily,1.5,true
+370,false,Cooper Tire & Rubber Company,Automotive Aftermarket,1997,705,$11.18,false,false,true,false,false,false,$3.49,48,7,Daily,1.4,true
+371,true,ENDRA Life Sciences Inc.,Biotechnology: Electromedical & Electrotherapeutic Apparatus,1993,233,$147.78,false,false,false,false,false,false,$4.68,239,8,Once,2.6,true
+372,true,Medtronic plc,Biotechnology: Electromedical & Electrotherapeutic Apparatus,1993,35,$416.93,false,false,false,false,false,false,$4.53,198,12,Weekly,3.8,true
+373,true,Voya Prime Rate Trust,n/a,2012,850,$80.60,true,true,true,false,true,true,$8.16,145,5,Daily,2.6,true
+374,true,"Hologic, Inc.",Medical Electronics,2003,955,$302.02,true,true,false,true,false,false,$8.73,82,12,Once,4.3,true
+375,false,Humana Inc.,Medical Specialities,2008,31,$324.95,false,false,true,false,true,false,$7.54,287,11,Once,0.9,true
+376,true,"First Cash, Inc.",Other Specialty Stores,1993,241,$34.95,false,true,false,true,false,false,$4.86,47,6,Once,2.4,false
+377,false,Chesapeake Lodging Trust,Real Estate Investment Trusts,2001,696,$231.53,false,false,false,false,true,false,$4.98,249,12,Seldom,2.6,false
+378,true,iShares MSCI ACWI Index Fund,n/a,2002,739,$43.86,true,false,false,true,false,true,$9.03,6,5,Once,4.4,true
+379,false,Scientific Games Corp,EDP Services,2009,400,$177.73,true,true,false,true,true,true,$2.59,137,2,Often,2.1,false
+380,true,First Data Corporation,Business Services,2010,627,$10.88,false,false,true,false,false,true,$9.55,44,8,Yearly,3.5,true
+381,false,"Asia Tigers Fund, Inc. (The)",n/a,1996,807,$147.57,false,true,true,true,false,false,$1.22,15,2,Never,2.3,false
+382,false,Allstate Corporation (The),n/a,1999,6,$145.74,false,true,true,false,true,true,$7.06,204,3,Never,0.6,true
+383,true,Blackrock Core Bond Trust,n/a,2001,907,$347.40,true,true,true,false,true,false,$6.42,262,6,Daily,2.6,true
+384,false,First Trust Latin America AlphaDEX Fund,n/a,1995,488,$101.30,false,false,false,false,true,true,$3.73,254,2,Seldom,4.2,false
+385,false,"Cogent Communications Holdings, Inc.",Telecommunications Equipment,1992,192,$91.98,false,true,false,false,true,false,$5.61,319,10,Often,1.3,false
+386,false,Nuveen Georgia Quality Municipal Income Fund ,n/a,2011,66,$187.44,false,true,true,false,true,false,$9.10,216,5,Often,3.3,false
+387,false,iShares S&P Global Timber & Forestry Index Fund,n/a,1990,967,$112.72,true,false,false,true,false,false,$9.98,3,7,Once,4.2,true
+388,false,"Spectra Energy Partners, LP",Natural Gas Distribution,1989,93,$387.04,false,true,true,true,true,false,$6.64,167,10,Seldom,4.0,false
+389,false,"J.C. Penney Company, Inc. Holding Company",Department/Specialty Retail Stores,2007,308,$406.89,false,true,false,false,false,false,$7.63,37,10,Often,2.5,false
+390,false,Mercer International Inc.,Paper,2011,565,$312.11,true,false,true,false,false,false,$3.21,116,10,Daily,1.3,false
+391,false,Johnson Outdoors Inc.,Recreational Products/Toys,2011,169,$153.88,true,false,false,false,false,true,$4.67,333,1,Seldom,2.2,false
+392,false,"KBR, Inc.",Military/Government/Technical,1997,200,$309.13,false,false,false,false,false,false,$9.52,187,5,Often,3.8,true
+393,true,"Bojangles&#39;, Inc.",Restaurants,2010,168,$35.20,false,true,false,true,true,false,$7.65,222,7,Once,4.7,true
+394,false,PowerShares DWA Energy Momentum Portfolio,n/a,2009,810,$330.72,false,true,true,false,true,false,$9.93,94,11,Weekly,1.2,false
+395,false,"Civista Bancshares, Inc. ",Major Banks,1999,974,$154.35,true,false,false,true,true,false,$1.37,359,4,Never,1.4,false
+396,true,Camtek Ltd.,Electronic Components,1999,510,$72.85,true,true,true,true,true,true,$5.28,79,1,Weekly,3.7,true
+397,true,EQT Corporation,Oil & Gas Production,2009,843,$377.60,false,true,true,false,false,true,$9.24,178,4,Daily,2.0,false
+398,true,Tata Motors Ltd,Auto Manufacturing,2001,177,$401.92,false,false,true,false,false,true,$9.62,156,4,Yearly,1.4,true
+399,true,Sphere 3D Corp.,EDP Services,2002,6,$117.02,true,true,false,true,true,false,$6.80,178,3,Once,0.0,true
+400,true,Autobytel Inc.,"Computer Software: Programming, Data Processing",1991,630,$216.10,false,false,false,false,true,false,$1.56,295,12,Often,0.6,true
+401,true,"Dominion Energy, Inc.",Electric Utilities: Central,2006,347,$127.97,true,true,false,true,true,false,$2.54,255,7,Often,2.9,false
+402,false,F.N.B. Corporation,Major Banks,2002,467,$179.53,false,true,true,false,true,true,$3.98,255,5,Daily,1.1,false
+403,true,TiVo Corporation,Multi-Sector Companies,1993,814,$126.05,true,false,false,true,true,true,$0.28,316,3,Weekly,4.1,true
+404,false,"Sandy Spring Bancorp, Inc.",Major Banks,1997,818,$102.94,true,false,true,true,false,true,$0.62,276,1,Seldom,2.8,true
+405,false,Norwood Financial Corp.,Major Banks,2006,220,$97.24,true,false,true,true,true,true,$0.39,65,3,Weekly,0.8,false
+406,true,"Workhorse Group, Inc.",Auto Manufacturing,2001,736,$394.70,false,true,true,false,false,false,$6.75,204,12,Seldom,1.9,false
+407,false,"TCW Strategic Income Fund, Inc.",n/a,2002,938,$127.91,true,true,true,false,true,false,$4.43,243,10,Yearly,2.9,true
+408,true,"Chart Industries, Inc.",Metal Fabrications,2012,652,$492.74,false,false,true,true,true,false,$0.45,202,7,Often,1.3,false
+409,false,Toronto Dominion Bank (The),Commercial Banks,1992,246,$56.02,true,false,false,false,false,false,$9.51,357,6,Yearly,3.1,false
+410,false,Sonic Corp.,Restaurants,2005,74,$467.01,false,false,false,false,false,true,$0.41,85,5,Weekly,1.7,true
+411,false,"Bankrate, Inc.",EDP Services,1993,964,$61.75,false,true,false,false,false,false,$9.13,270,1,Daily,4.6,true
+412,false,Swift Transportation Company,Trucking Freight/Courier Services,2012,52,$191.61,false,true,true,true,true,false,$9.19,244,7,Yearly,0.8,false
+413,false,"Zynerba Pharmaceuticals, Inc.",Major Pharmaceuticals,2001,512,$307.49,true,false,false,false,true,false,$6.19,83,12,Weekly,4.5,true
+414,true,Astoria Financial Corporation,Savings Institutions,2006,68,$335.04,false,true,false,true,false,true,$9.98,145,1,Weekly,4.8,false
+415,false,"Isramco, Inc.",Oil & Gas Production,2000,286,$419.05,false,true,false,false,false,false,$4.67,145,2,Monthly,4.8,true
+416,true,Invitation Homes Inc.,Real Estate,2006,735,$64.64,false,false,true,true,true,true,$5.29,158,11,Yearly,1.0,true
+417,false,Royal Bank Scotland plc (The),n/a,1986,296,$223.83,false,false,true,false,false,true,$6.45,296,10,Seldom,0.5,true
+418,false,"Olympic Steel, Inc.",Metal Fabrications,2008,694,$214.44,false,true,false,true,true,false,$7.42,24,3,Yearly,2.3,false
+419,false,"Green Bancorp, Inc.",Major Banks,2007,24,$416.18,true,true,true,false,true,true,$5.78,80,6,Never,1.0,false
+420,false,Tantech Holdings Ltd.,Major Chemicals,1997,66,$219.59,false,true,true,true,true,true,$0.78,204,5,Never,0.7,false
+421,true,Nuveen California AMT-Free Quality Municipal Income Fund,n/a,2002,112,$232.50,false,false,false,true,true,true,$3.63,179,11,Weekly,2.0,true
+422,true,Trillium Therapeutics Inc.,Major Pharmaceuticals,2008,941,$449.44,true,false,false,false,true,true,$1.87,338,4,Once,1.0,true
+423,true,"Black Stone Minerals, L.P.",Oil & Gas Production,1974,8,$209.20,false,false,false,false,false,false,$1.69,166,7,Yearly,2.8,false
+424,false,United Therapeutics Corporation,Major Pharmaceuticals,1993,834,$325.54,true,true,true,true,true,false,$5.63,29,2,Seldom,2.7,false
+425,false,Oconee Federal Financial Corp.,Savings Institutions,2004,868,$411.39,false,false,false,false,false,false,$0.19,89,7,Weekly,0.3,true
+426,true,Gladstone Capital Corporation,n/a,1996,832,$330.95,false,true,true,true,false,false,$6.12,61,12,Once,4.1,true
+427,true,Oasis Petroleum Inc.,Oil & Gas Production,1995,877,$359.23,false,true,true,false,true,true,$6.05,194,7,Never,0.4,true
+428,false,"Chiasma, Inc.",Major Pharmaceuticals,2012,379,$29.97,true,true,true,true,true,true,$0.77,356,6,Once,3.3,true
+429,true,"Momenta Pharmaceuticals, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2005,390,$16.64,false,false,true,true,true,true,$3.09,106,10,Daily,0.9,false
+430,false,Zix Corporation,EDP Services,2009,477,$198.14,true,false,false,false,false,true,$1.04,287,8,Yearly,1.2,true
+431,true,PIMCO Municipal Income Fund,n/a,2006,709,$296.17,true,false,false,false,false,true,$1.04,319,2,Often,1.2,true
+432,false,"AptarGroup, Inc.",Plastic Products,1986,194,$185.44,false,false,false,false,false,true,$0.66,18,7,Once,1.0,true
+433,false,J P Morgan Chase & Co,n/a,1996,108,$26.90,true,false,false,true,false,true,$1.73,36,1,Daily,2.8,true
+434,false,Till Capital Ltd.,Property-Casualty Insurers,1984,442,$145.63,false,true,true,true,false,true,$8.61,145,11,Once,2.3,true
+435,true,"Argos Therapeutics, Inc.",Major Pharmaceuticals,1993,392,$257.90,true,false,true,false,false,true,$0.48,183,12,Yearly,3.1,false
+436,true,Quinpario Acquisition Corp. 2,Business Services,2011,124,$16.45,true,true,false,true,false,true,$4.31,184,5,Seldom,0.1,true
+437,true,"Honda Motor Company, Ltd.",Auto Manufacturing,1995,118,$451.30,false,true,true,true,false,false,$1.29,129,11,Weekly,3.6,false
+438,false,"Safeguard Scientifics, Inc.",Finance/Investors Services,2010,579,$443.86,false,false,true,false,false,false,$4.57,69,4,Seldom,3.3,false
+439,true,"Bio-Rad Laboratories, Inc.",Biotechnology: Laboratory Analytical Instruments,2010,705,$434.18,false,true,true,true,true,false,$3.56,163,1,Seldom,4.3,false
+440,true,Anheuser-Busch Inbev SA,Beverages (Production/Distribution),1995,9,$40.13,true,false,false,true,true,true,$4.31,53,9,Daily,3.9,true
+441,false,Till Capital Ltd.,Property-Casualty Insurers,2006,554,$191.81,true,false,true,false,true,false,$2.65,350,8,Yearly,3.0,true
+442,false,"RCM Technologies, Inc.",Professional Services,2006,124,$373.99,false,true,true,false,true,true,$6.63,306,8,Yearly,1.0,false
+443,true,Unit Corporation,Oil & Gas Production,2006,427,$174.40,false,true,true,false,true,true,$1.71,21,8,Once,2.8,false
+444,true,"Orbital ATK, Inc.",Military/Government/Technical,1999,398,$253.73,false,true,true,false,false,false,$3.14,157,6,Daily,4.1,true
+445,true,"Yum China Holdings, Inc.",Restaurants,2009,216,$322.11,false,false,true,true,false,false,$7.30,118,6,Never,4.3,true
+446,true,McEwen Mining Inc.,Precious Metals,2005,760,$154.99,false,false,true,true,true,true,$5.58,225,3,Seldom,2.8,true
+447,false,"VASCO Data Security International, Inc.",EDP Services,1994,91,$246.59,false,false,false,true,false,true,$0.31,340,6,Never,3.8,true
+448,false,"CBRE Group, Inc.",Real Estate,1987,196,$103.81,true,false,true,true,true,true,$2.11,158,12,Daily,4.1,true
+449,true,Century Aluminum Company,Aluminum,2000,51,$64.66,false,false,false,true,false,false,$6.30,113,5,Never,2.4,true
+450,false,"Daseke, Inc.",Transportation Services,2012,695,$78.70,true,false,true,true,true,true,$8.07,178,1,Seldom,2.1,false
+451,true,BankFinancial Corporation,Savings Institutions,2003,119,$373.20,false,true,true,true,true,true,$5.21,58,9,Daily,5.0,true
+452,true,OncoSec Medical Incorporated,Major Pharmaceuticals,2010,782,$374.15,false,true,false,true,true,false,$8.27,255,5,Once,0.1,false
+453,true,Baker Hughes Incorporated,Metal Fabrications,2003,378,$281.99,false,false,false,true,false,true,$9.58,204,8,Monthly,3.7,false
+454,false,Kansas City Southern,Railroads,1993,670,$456.14,true,true,true,false,false,false,$5.64,280,6,Yearly,4.7,true
+455,true,Panera Bread Company,Restaurants,1987,948,$127.76,true,true,false,true,true,false,$9.81,37,10,Once,0.6,false
+456,true,Newmont Mining Corporation,Precious Metals,2012,364,$144.13,true,false,false,true,true,false,$7.39,186,1,Monthly,4.1,true
+457,true,Eaton Vance Municipal Income Trust,n/a,2001,97,$431.36,true,false,false,true,true,false,$5.30,35,5,Monthly,1.5,true
+458,false,Anadarko Petroleum Corporation,Oil & Gas Production,1985,433,$486.36,false,true,true,false,false,false,$9.67,32,11,Yearly,1.3,true
+459,false,Veeva Systems Inc.,Computer Software: Prepackaged Software,1995,484,$9.05,true,false,false,false,false,true,$7.50,245,8,Yearly,2.5,false
+460,true,"Landstar System, Inc.",Trucking Freight/Courier Services,2000,712,$40.65,false,true,false,false,false,false,$4.94,157,1,Daily,3.2,true
+461,true,"Orchid Island Capital, Inc.",Real Estate Investment Trusts,1999,23,$368.43,false,false,false,false,true,true,$9.11,137,12,Monthly,0.8,true
+462,false,Bright Horizons Family Solutions Inc.,Other Consumer Services,2000,911,$158.15,false,true,true,true,true,true,$5.81,344,5,Yearly,1.6,true
+463,true,"Pioneer Power Solutions, Inc.",Electrical Products,2007,986,$383.81,false,false,false,true,true,false,$8.60,170,5,Monthly,3.6,false
+464,true,"AAON, Inc.",Industrial Machinery/Components,2006,114,$216.61,true,true,true,false,false,true,$5.24,33,2,Yearly,4.2,true
+465,false,Davis Select Worldwide ETF,n/a,2000,47,$193.64,false,false,false,false,false,false,$7.77,325,2,Seldom,1.5,true
+466,false,Och-Ziff Capital Management Group LLC,Investment Managers,2011,437,$388.40,false,true,false,true,false,true,$7.21,69,11,Often,4.6,true
+467,true,Clipper Realty Inc.,Real Estate Investment Trusts,1992,639,$212.02,false,true,true,true,false,false,$0.36,244,3,Weekly,4.3,true
+468,false,American River Bankshares,Major Banks,2012,673,$306.01,true,true,false,false,false,true,$0.30,102,12,Once,2.9,false
+469,true,Las Vegas Sands Corp.,Hotels/Resorts,1992,712,$475.87,false,true,true,true,true,true,$4.73,291,11,Daily,2.6,true
+470,false,Riverview Bancorp Inc,Savings Institutions,1991,621,$344.54,true,true,false,false,false,false,$8.73,146,12,Never,2.9,true
+471,false,Eldorado Gold Corporation,Precious Metals,2005,975,$364.97,true,false,false,false,false,false,$4.65,145,3,Once,0.8,false
+472,false,"Catalyst Biosciences, Inc. ",Major Pharmaceuticals,2012,22,$189.91,true,true,true,true,true,true,$6.94,96,10,Once,1.5,true
+473,false,"Clearside Biomedical, Inc.",Major Pharmaceuticals,2010,113,$312.01,true,false,false,true,false,true,$3.14,248,5,Once,4.6,true
+474,true,"Dillard&#39;s, Inc.",Department/Specialty Retail Stores,2008,595,$5.76,true,false,true,true,true,false,$0.57,228,7,Weekly,1.3,true
+475,true,UroGen Pharma Ltd.,Major Pharmaceuticals,2011,659,$252.26,false,false,false,false,false,true,$4.32,113,7,Weekly,1.9,true
+476,false,First Trust United Kingdom AlphaDEX Fund,n/a,2005,366,$451.35,false,true,false,false,false,false,$5.49,43,2,Daily,1.1,false
+477,false,"Quality Care Properties, Inc.",Real Estate Investment Trusts,1998,602,$495.62,false,true,true,false,true,false,$2.70,225,3,Monthly,4.4,false
+478,false,Eagle Bulk Shipping Inc.,Marine Transportation,2007,128,$278.63,false,false,false,true,true,false,$3.89,75,2,Once,2.4,false
+479,false,"WisdomTree Investments, Inc.",Investment Bankers/Brokers/Service,1991,186,$212.11,true,true,false,false,false,true,$6.02,358,11,Monthly,2.7,false
+480,true,iShares MSCI EAFE ESG Optimized ETF,n/a,2002,328,$44.28,true,true,true,false,false,true,$3.88,245,3,Yearly,1.8,true
+481,true,SEI Investments Company,Investment Bankers/Brokers/Service,2008,464,$396.62,true,false,false,true,true,false,$1.55,209,8,Daily,3.2,false
+482,false,Washington Prime Group Inc.,n/a,2006,720,$24.21,true,true,true,true,false,false,$5.15,129,7,Weekly,1.6,false
+483,true,"B&G Foods, Inc.",Packaged Foods,2002,763,$447.24,true,false,false,true,false,false,$7.81,228,3,Often,4.6,false
+484,true,"Telephone and Data Systems, Inc.",Telecommunications Equipment,1992,123,$235.57,true,true,false,true,true,false,$6.31,327,6,Never,0.5,true
+485,false,"Ocean Power Technologies, Inc.",Electric Utilities: Central,2000,558,$209.98,false,false,true,false,true,false,$5.01,53,4,Often,0.1,false
+486,false,"NextEra Energy, Inc.",n/a,2002,647,$140.03,false,false,false,true,false,true,$0.11,133,8,Yearly,1.1,false
+487,false,"ParkerVision, Inc.",Radio And Television Broadcasting And Communications Equipment,2008,300,$328.88,true,false,true,true,true,false,$3.30,215,7,Once,0.3,false
+488,false,VanEck Vectors Pharmaceutical ETF,n/a,2007,332,$492.16,true,false,false,true,false,true,$4.63,87,12,Never,1.6,false
+489,false,China Telecom Corp Ltd,Telecommunications Equipment,2002,414,$361.65,true,false,false,false,false,false,$1.27,341,8,Daily,4.6,false
+490,true,"SilverBow Resorces, Inc.",Oil & Gas Production,2005,485,$124.55,false,true,true,true,false,true,$8.85,180,4,Never,1.1,false
+491,false,Tata Motors Ltd,Auto Manufacturing,2007,48,$125.75,true,true,false,true,true,true,$5.57,255,12,Never,3.7,true
+492,true,Leaf Group Ltd.,EDP Services,2012,704,$477.52,false,true,true,true,false,true,$4.13,95,10,Monthly,4.0,true
+493,false,Ardagh Group S.A.,Containers/Packaging,1999,938,$201.20,true,true,true,false,false,false,$7.13,339,6,Monthly,3.6,false
+494,true,Ellington Residential Mortgage REIT,Real Estate Investment Trusts,2004,849,$242.13,false,false,false,true,false,false,$7.65,58,12,Often,3.9,true
+495,true,Puma Biotechnology Inc,Major Pharmaceuticals,2011,365,$170.99,true,false,true,true,true,false,$2.30,1,5,Never,4.5,true
+496,true,Gabelli Multi-Media Trust Inc. (The),n/a,2009,73,$102.15,true,false,false,true,true,true,$3.21,199,3,Once,3.9,true
+497,true,Park Electrochemical Corporation,Electrical Products,1995,833,$182.23,false,false,false,true,false,true,$0.53,227,12,Once,0.7,true
+498,false,Calamos Strategic Total Return Fund,n/a,2011,265,$225.35,false,true,true,true,false,false,$8.29,313,3,Weekly,0.2,true
+499,true,Nuveen Build America Bond Opportunity Fund,n/a,2007,354,$121.50,false,false,true,true,true,true,$6.97,177,9,Seldom,3.7,true
+500,false,"Bankrate, Inc.",EDP Services,2012,114,$328.03,false,true,false,true,true,true,$7.01,254,9,Monthly,4.9,false
+501,false,Martin Midstream Partners L.P.,Oil Refining/Marketing,1986,378,$185.86,true,true,false,true,false,true,$7.58,265,1,Often,0.2,false
+502,false,Magic Software Enterprises Ltd.,Computer Software: Prepackaged Software,1990,605,$456.26,true,true,true,false,true,false,$1.29,218,6,Monthly,4.7,true
+503,false,"Northwest Bancshares, Inc.",Major Banks,1999,868,$223.54,true,true,false,false,false,false,$8.62,187,9,Monthly,2.9,false
+504,true,"Remark Holdings, Inc.",Telecommunications Equipment,2001,354,$419.38,false,true,true,true,false,true,$0.46,208,7,Never,0.4,false
+505,true,Harmony Gold Mining Company Limited,Precious Metals,1976,136,$247.32,true,false,false,true,true,false,$1.73,300,5,Never,1.7,false
+506,true,"USA Technologies, Inc.",Office Equipment/Supplies/Services,2003,292,$90.70,true,false,true,false,false,true,$6.92,215,7,Monthly,1.7,true
+507,false,Yandex N.V.,"Computer Software: Programming, Data Processing",1999,877,$46.43,false,false,true,false,true,false,$3.84,185,4,Never,3.2,false
+508,true,"State National Companies, Inc.",Property-Casualty Insurers,1993,238,$201.85,true,true,false,false,true,false,$5.36,111,6,Seldom,2.5,false
+509,false,First Trust Dorsey Wright International Focus 5 ETF,n/a,2000,611,$319.63,false,true,true,true,true,false,$6.49,285,10,Seldom,4.2,true
+510,false,"SMART Global Holdings, Inc.",Semiconductors,1992,334,$497.83,false,false,false,true,false,true,$4.00,360,11,Once,4.2,true
+511,true,Genie Energy Ltd.,n/a,2005,652,$214.72,false,false,false,true,true,false,$4.97,242,1,Monthly,3.8,true
+512,false,Precision Drilling Corporation,Oil & Gas Production,2003,742,$67.38,true,true,false,true,true,false,$3.93,61,11,Daily,1.3,true
+513,false,Turkcell Iletisim Hizmetleri AS,Telecommunications Equipment,1998,592,$90.33,false,false,false,false,false,true,$6.07,297,10,Monthly,3.5,false
+514,false,First Trust Senior Loan Fund ETF,n/a,1999,943,$123.38,false,false,false,false,true,true,$3.33,33,8,Monthly,2.2,true
+515,false,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",n/a,2011,171,$116.95,true,true,true,true,true,true,$1.43,346,2,Monthly,0.5,false
+516,false,Coupa Software Incorporated,Computer Software: Prepackaged Software,1999,417,$200.80,true,true,false,false,false,true,$4.42,293,8,Seldom,3.5,true
+517,false,Enstar Group Limited,Property-Casualty Insurers,2004,337,$424.43,false,true,false,false,true,true,$7.58,315,12,Seldom,2.6,true
+518,true,Mosaic Company (The),Agricultural Chemicals,1998,634,$403.81,true,false,true,false,false,true,$0.17,143,2,Once,0.5,false
+519,true,FIRST REPUBLIC BANK,n/a,2008,968,$384.51,false,false,false,true,true,true,$9.84,303,10,Daily,2.9,true
+520,false,"Popular, Inc.",Major Banks,1997,943,$453.15,false,true,true,false,true,false,$8.88,144,12,Once,4.4,false
+521,false,3D Systems Corporation,Computer Software: Prepackaged Software,2012,127,$332.35,true,true,true,true,true,true,$3.41,96,6,Never,4.1,false
+522,true,"Lamb Weston Holdings, Inc.",Packaged Foods,2007,423,$78.31,true,true,true,false,true,false,$8.66,305,10,Never,1.7,false
+523,false,"Cogint, Inc.",Advertising,2007,971,$417.66,false,false,true,false,false,false,$2.79,17,11,Monthly,2.5,true
+524,false,"Armada Hoffler Properties, Inc.",Real Estate,2006,289,$115.78,false,true,true,true,false,false,$1.07,281,8,Monthly,0.5,false
+525,true,"ALJ Regional Holdings, Inc.",Business Services,1994,979,$392.50,true,false,false,true,true,true,$8.84,79,7,Often,2.5,false
+526,false,Changyou.com Limited,Computer Software: Prepackaged Software,1999,376,$58.24,true,false,true,true,false,false,$6.23,215,1,Monthly,2.3,true
+527,false,"Virtus Investment Partners, Inc.",Investment Managers,2008,892,$275.80,false,true,true,true,true,false,$2.16,82,4,Never,3.2,false
+528,true,Performance Food Group Company,Food Distributors,2011,309,$301.64,true,true,false,true,false,false,$3.40,167,6,Never,1.9,false
+529,false,ClearBridge Energy MLP Fund Inc.,n/a,2001,73,$263.87,true,true,false,false,true,true,$1.09,273,9,Once,3.4,true
+530,false,Neptune Technologies & Bioresources Inc,Major Pharmaceuticals,1995,584,$348.60,true,true,false,false,true,false,$4.25,88,1,Yearly,3.9,true
+531,false,Colony Starwood Homes,Real Estate Investment Trusts,2009,714,$178.38,false,false,true,false,false,false,$2.67,51,5,Never,4.6,false
+532,false,China Cord Blood Corporation,Business Services,2004,410,$341.68,false,true,false,false,true,false,$3.96,310,11,Seldom,0.8,true
+533,false,"Stanley Black & Decker, Inc.",Industrial Machinery/Components,1991,449,$224.09,false,true,false,false,true,true,$4.89,255,5,Often,2.7,false
+534,false,Visteon Corporation,Auto Parts:O.E.M.,2002,722,$105.99,true,true,true,true,false,true,$1.43,53,3,Never,0.5,true
+535,true,Kewaunee Scientific Corporation,Medical Specialities,2000,514,$444.39,true,false,true,false,true,false,$2.85,127,1,Monthly,2.3,false
+536,true,"Mettler-Toledo International, Inc.",Biotechnology: Laboratory Analytical Instruments,1988,877,$95.62,false,true,false,true,false,true,$5.76,110,12,Once,4.6,false
+537,true,pSivida Corp.,Biotechnology: Laboratory Analytical Instruments,2006,156,$427.57,false,false,false,false,true,true,$3.01,193,6,Weekly,3.4,false
+538,true,Corcept Therapeutics Incorporated,Major Pharmaceuticals,1975,304,$271.06,false,true,true,true,false,false,$1.66,281,10,Yearly,4.0,false
+539,true,Western Asset High Yield Defined Opportunity Fund Inc.,n/a,1999,202,$496.98,true,true,true,true,false,true,$0.85,151,3,Yearly,3.7,false
+540,true,Southern Company (The),Electric Utilities: Central,1995,82,$40.69,false,false,false,false,true,true,$10.00,271,3,Never,3.1,true
+541,false,"Payment Data Systems, Inc.",Investment Bankers/Brokers/Service,1996,106,$485.96,false,true,false,true,false,true,$3.91,151,8,Often,2.8,false
+542,false,The Spectranetics Corporation,Biotechnology: Electromedical & Electrotherapeutic Apparatus,2004,663,$265.17,true,false,true,true,true,false,$0.76,13,12,Seldom,3.9,false
+543,true,Brookfield Business Partners L.P.,Engineering & Construction,2003,153,$129.59,true,false,false,false,false,false,$7.55,245,5,Daily,0.9,false
+544,false,"China Lodging Group, Limited",Hotels/Resorts,2007,901,$222.85,true,false,false,true,false,false,$8.71,247,5,Yearly,3.9,true
+545,false,"H&R Block, Inc.",Other Consumer Services,2009,580,$38.22,true,false,true,false,true,true,$4.79,19,6,Monthly,2.0,false
+546,false,TriCo Bancshares,Major Banks,1995,215,$431.32,true,true,false,true,false,true,$8.57,194,3,Weekly,1.8,true
+547,true,"Blackhawk Network Holdings, Inc.",Finance: Consumer Services,2008,867,$342.96,true,false,true,true,true,true,$7.48,241,10,Often,0.6,false
+548,false,Independence Holding Company,Life Insurance,2013,788,$166.10,true,false,false,true,false,false,$5.36,114,12,Never,1.9,true
+549,true,PowerShares BuyBack Achievers Portfolio,n/a,2002,12,$279.07,false,false,false,false,false,true,$1.02,137,3,Seldom,0.3,false
+550,true,Olin Corporation,Major Chemicals,1986,293,$69.55,true,true,false,true,true,true,$5.89,350,7,Weekly,4.8,true
+551,true,Invesco Trust for Investment Grade Municipals,n/a,1999,306,$2.91,false,false,true,true,true,false,$0.95,276,6,Daily,1.2,false
+552,true,"CorEnergy Infrastructure Trust, Inc.",n/a,2012,145,$247.00,false,false,true,true,false,true,$9.65,200,11,Monthly,2.0,false
+553,false,Transportadora De Gas Sa Ord B,Natural Gas Distribution,1997,629,$349.49,true,true,true,false,true,true,$2.66,245,9,Weekly,1.9,true
+554,false,"Carolina Trust BancShares, Inc.",Major Banks,2011,450,$240.05,false,false,false,true,false,true,$8.09,254,2,Often,3.3,false
+555,false,CMS Energy Corporation,Power Generation,2011,600,$235.25,false,true,true,true,true,true,$4.48,18,2,Weekly,3.3,false
+556,true,Quidel Corporation,Biotechnology: In Vitro & In Vivo Diagnostic Substances,2002,797,$56.12,false,true,true,true,false,true,$8.33,19,11,Once,2.3,false
+557,true,Wells Fargo Global Dividend Opportunity Fund,n/a,2007,478,$102.28,true,true,true,true,false,false,$3.47,284,10,Weekly,5.0,false
+558,true,QAD Inc.,Computer Software: Prepackaged Software,2006,459,$339.91,false,true,true,true,false,true,$9.54,198,12,Once,3.3,false
+559,true,"Nike, Inc.",Shoe Manufacturing,1988,87,$38.77,true,false,false,false,false,false,$1.60,134,2,Often,1.1,true
+560,true,Motif Bio plc,Major Pharmaceuticals,2010,124,$50.27,false,true,false,true,true,false,$7.29,23,11,Seldom,1.1,false
+561,false,Comerica Incorporated,n/a,2001,69,$228.00,false,false,true,true,true,true,$7.86,270,12,Monthly,2.2,true
+562,false,Compugen Ltd.,Biotechnology: Biological Products (No Diagnostic Substances),2001,340,$290.42,true,true,false,true,false,false,$5.80,157,11,Often,3.5,true
+563,false,Vonage Holdings Corp.,Telecommunications Equipment,1990,430,$146.94,true,false,false,false,false,false,$1.18,59,2,Monthly,1.6,true
+564,true,"Duff & Phelps Utility & Corporate Bond Trust, Inc.",n/a,2010,175,$104.20,true,true,false,false,true,false,$5.00,183,4,Weekly,1.4,true
+565,true,Pampa Energia S.A.,Electric Utilities: Central,1986,951,$460.77,true,true,true,true,true,true,$5.08,47,12,Often,2.0,true
+566,true,"Blackrock MuniYield California Fund, Inc.",n/a,2006,130,$130.86,false,true,true,false,true,false,$8.16,109,11,Seldom,4.5,false
+567,true,"America Movil, S.A.B. de C.V.",Telecommunications Equipment,2003,872,$434.97,true,true,true,false,true,false,$4.31,16,12,Yearly,0.3,false
+568,false,ROBO Global Robotics and Automation Index ETF,n/a,2009,687,$422.60,true,true,false,true,false,true,$7.73,60,7,Weekly,1.5,true
+569,true,Markel Corporation,Property-Casualty Insurers,1987,711,$155.40,true,true,true,true,true,false,$8.62,304,7,Often,3.2,true
+570,false,"Prudential Financial, Inc.",Life Insurance,2000,581,$291.52,true,true,false,true,true,false,$4.79,320,9,Once,2.4,true
+571,true,BLDRS Developed Markets 100 ADR Index Fund,n/a,2012,238,$59.45,true,false,false,true,false,false,$2.20,279,11,Seldom,4.0,false
+572,true,iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,n/a,2012,315,$302.76,true,false,true,false,false,false,$0.12,211,8,Weekly,4.0,false
+573,true,Azul S.A.,Air Freight/Delivery Services,1998,400,$238.55,true,true,true,false,false,false,$7.93,25,8,Weekly,4.0,false
+574,true,Rocket Fuel Inc.,"Computer Software: Programming, Data Processing",2013,945,$17.56,false,true,false,false,false,true,$1.31,158,12,Monthly,2.5,false
+575,true,"Schnitzer Steel Industries, Inc.",Industrial Specialties,2009,949,$189.77,false,false,false,false,false,true,$9.85,114,5,Never,2.0,false
+576,false,Tekla Healthcare Investors,n/a,2006,675,$243.45,false,true,true,true,false,true,$1.25,133,2,Weekly,1.1,false
+577,true,Goldman Sachs MLP Income Opportunities Fund,n/a,1998,604,$134.16,true,true,false,false,true,true,$3.49,293,6,Never,4.4,true
+578,false,"Eastern Virginia Bankshares, Inc.",Major Banks,2009,115,$330.13,false,true,true,false,true,true,$3.21,97,1,Never,2.5,false
+579,false,Hudbay Minerals Inc.,Precious Metals,1987,552,$498.93,true,false,true,true,true,true,$2.51,288,5,Daily,1.2,false
+580,false,Southwestern Energy Company,Oil & Gas Production,2005,227,$338.81,true,true,true,false,true,true,$3.54,273,10,Once,2.3,false
+581,true,National Holdings Corporation,Investment Bankers/Brokers/Service,2001,312,$498.64,true,false,true,true,true,true,$6.55,336,9,Weekly,2.1,false
+582,true,"Avenue Therapeutics, Inc.",n/a,1996,527,$439.48,true,true,false,false,false,true,$1.98,194,2,Yearly,0.4,true
+583,true,Stellar Acquisition III Inc.,Business Services,2003,983,$230.63,true,true,false,true,true,false,$9.97,243,9,Never,2.1,false
+584,false,Nuveen Dow 30SM Dynamic Overwrite Fund,n/a,2005,788,$310.88,false,false,true,false,false,false,$9.74,81,8,Seldom,2.4,false
+585,true,First Trust Hong Kong AlphaDEX Fund,n/a,1993,255,$18.86,true,false,false,false,false,false,$1.48,308,12,Weekly,0.5,false
+586,true,Immune Pharmaceuticals Inc.,Major Pharmaceuticals,2001,825,$87.94,false,true,true,true,true,false,$5.50,210,8,Never,1.2,true
+587,true,Sify Technologies Limited,"Computer Software: Programming, Data Processing",1999,150,$401.19,false,true,true,false,true,false,$4.37,172,6,Once,3.0,true
+588,true,Navios Maritime Acquisition Corporation,Marine Transportation,2003,733,$216.31,true,false,true,false,true,false,$4.04,294,3,Daily,3.2,false
+589,false,Nuveen Michigan Quality Municipal Income Fund,n/a,1997,263,$151.06,true,true,true,true,true,true,$3.40,24,5,Monthly,0.3,false
+590,false,"Watts Water Technologies, Inc.",Metal Fabrications,1995,533,$498.60,false,false,false,false,false,true,$2.96,25,5,Weekly,1.9,false
+591,true,PowerShares DWA Tactical Sector Rotation Portfolio,n/a,1985,841,$145.09,false,true,true,false,false,true,$4.46,150,1,Yearly,3.8,true
+592,true,"Barnes Group, Inc.",Metal Fabrications,2011,112,$169.60,false,false,true,true,true,true,$4.11,330,6,Weekly,0.6,true
+593,false,"Computer Task Group, Incorporated",EDP Services,1999,233,$248.75,false,false,false,false,true,false,$4.05,274,2,Seldom,2.5,true
+594,true,"OraSure Technologies, Inc.",Medical/Dental Instruments,2003,810,$75.21,false,true,false,false,false,false,$2.40,37,4,Monthly,2.5,false
+595,true,Zhaopin Limited,Professional Services,2001,486,$62.86,false,true,true,false,true,true,$1.37,12,11,Seldom,3.2,false
+596,true,Harsco Corporation,Metal Fabrications,2007,923,$351.65,false,false,true,true,true,false,$8.56,233,2,Seldom,2.5,false
+597,false,"Cedar Fair, L.P.",Services-Misc. Amusement & Recreation,2009,593,$442.46,false,true,true,true,false,true,$9.14,78,1,Once,3.5,false
+598,false,Yelp Inc.,Other Consumer Services,2003,68,$170.74,false,false,false,true,true,true,$0.35,335,4,Never,0.4,true
+599,false,Allstate Corporation (The),n/a,2006,63,$366.95,true,true,false,true,true,true,$2.34,173,10,Yearly,1.0,true
+600,true,Pennsylvania Real Estate Investment Trust,n/a,2010,152,$483.07,true,false,true,true,false,false,$8.30,107,10,Daily,1.3,true
+601,true,Drive Shack Inc.,n/a,2003,165,$69.01,false,true,true,true,true,false,$6.11,154,9,Monthly,1.5,true
+602,true,Entergy Corporation,Electric Utilities: Central,2009,108,$121.55,false,false,false,false,false,false,$2.10,101,4,Weekly,0.7,true
+603,true,"Avnet, Inc.",Electronic Components,2001,92,$377.24,true,false,true,true,true,true,$1.79,311,3,Never,3.9,true
+604,false,Gabelli Dividend,n/a,2008,269,$148.50,false,true,false,false,true,false,$8.64,103,5,Seldom,2.5,false
+605,false,"FSB Bancorp, Inc.",Savings Institutions,1989,325,$15.16,true,true,false,false,false,false,$5.97,233,6,Often,1.6,false
+606,false,"FS Bancorp, Inc.",Banks,2001,454,$216.17,false,false,false,true,false,false,$9.56,88,7,Once,2.5,true
+607,false,"Gabelli Equity Trust, Inc. (The)",n/a,2010,257,$273.86,false,true,true,false,false,true,$1.32,206,7,Seldom,4.1,false
+608,false,Eastman Kodak Company,n/a,2008,7,$432.03,true,false,true,false,true,true,$2.82,14,3,Daily,1.2,true
+609,false,Wayfair Inc.,Catalog/Specialty Distribution,2009,753,$63.09,true,false,true,false,false,true,$6.52,303,3,Once,3.3,false
+610,false,"Chimerix, Inc.",Major Pharmaceuticals,1988,168,$379.05,true,true,true,true,true,false,$0.52,364,11,Yearly,0.6,true
+611,true,"Ionis Pharmaceuticals, Inc.",Major Pharmaceuticals,2000,504,$29.89,true,true,true,false,true,true,$5.68,5,5,Once,2.5,true
+612,true,Sunoco LP,Oil Refining/Marketing,2004,317,$311.81,false,true,true,false,false,true,$4.75,176,12,Seldom,2.7,false
+613,false,"Advanced Micro Devices, Inc.",Semiconductors,2001,820,$439.67,true,false,true,false,true,false,$6.78,196,4,Weekly,3.3,true
+614,true,Mobile TeleSystems OJSC,Telecommunications Equipment,2013,799,$16.44,true,true,false,false,false,false,$1.66,45,10,Seldom,0.7,true
+615,true,PowerShares DWA Momentum Portfolio,n/a,1999,43,$167.68,false,false,true,true,false,true,$0.50,116,5,Never,0.1,true
+616,true,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",n/a,1987,834,$27.26,false,true,true,true,false,true,$2.05,221,2,Often,1.3,false
+617,true,Sotherly Hotels LP,Hotels/Resorts,1996,222,$442.25,false,false,false,true,false,true,$4.24,30,1,Weekly,2.4,true
+618,true,Nuveen Georgia Quality Municipal Income Fund ,n/a,1998,277,$86.06,false,true,false,true,false,true,$3.95,345,8,Yearly,4.1,false
+619,true,Kansas City Southern,Railroads,1995,493,$5.27,false,false,true,true,false,false,$8.08,356,1,Daily,2.1,true
+620,false,"SeaWorld Entertainment, Inc.",Services-Misc. Amusement & Recreation,2010,415,$342.30,false,false,true,false,false,false,$3.67,197,12,Once,4.3,true
+621,true,Axalta Coating Systems Ltd.,Paints/Coatings,2005,775,$410.34,true,false,true,true,false,true,$6.25,168,10,Once,3.8,false
+622,true,"Appliance Recycling Centers of America, Inc.",Home Furnishings,1970,842,$209.52,false,true,false,false,false,false,$4.82,169,12,Never,2.5,false
+623,true,Fibria Celulose S.A.,Paper,2012,216,$240.67,false,false,true,false,true,false,$1.20,152,5,Daily,4.0,false
+624,true,Nektar Therapeutics,Major Pharmaceuticals,2000,819,$367.30,false,false,true,true,true,true,$1.96,102,9,Daily,3.9,false
+625,true,Sotheby&#39;s,Business Services,1997,150,$292.23,false,true,true,false,false,true,$0.18,33,12,Never,1.1,false
+626,false,Fibria Celulose S.A.,Paper,2011,576,$281.63,false,false,true,false,false,true,$5.56,52,2,Daily,4.1,true
+627,true,Banner Corporation,Major Banks,1990,745,$361.00,false,false,true,false,false,true,$0.89,122,11,Never,3.5,false
+628,true,Park Electrochemical Corporation,Electrical Products,2001,387,$194.16,true,true,false,false,true,true,$7.79,9,3,Yearly,1.5,true
+629,false,Monmouth Real Estate Investment Corporation,Real Estate Investment Trusts,2010,951,$455.08,true,false,true,true,true,false,$7.32,262,1,Often,4.6,true
+630,true,KT Corporation,Telecommunications Equipment,1985,203,$195.14,false,true,false,false,true,false,$3.24,39,3,Monthly,3.7,false
+631,true,Quinpario Acquisition Corp. 2,Business Services,2004,74,$299.72,true,true,true,false,false,true,$5.57,176,2,Daily,3.7,false
+632,false,Mercury Systems Inc,Electrical Products,1999,702,$423.89,true,true,false,false,false,false,$7.62,190,11,Daily,3.2,false
+633,false,Lyon William Homes,Homebuilding,2010,834,$279.86,false,false,true,true,true,true,$9.57,12,9,Weekly,4.7,false
+634,true,Sonoco Products Company,Containers/Packaging,2011,447,$99.07,true,true,false,false,true,true,$3.10,170,8,Often,3.3,true
+635,true,Orange,Telecommunications Equipment,2009,576,$455.54,false,false,false,false,true,true,$7.20,134,2,Often,5.0,true
+636,false,"Radius Health, Inc.",Major Pharmaceuticals,1998,915,$93.71,true,false,true,true,true,false,$9.08,8,7,Yearly,3.9,true
+637,true,"American Electric Power Company, Inc.",Electric Utilities: Central,2010,795,$497.73,false,false,true,true,true,true,$8.46,199,6,Never,2.9,false
+638,true,"Fuel Tech, Inc.",Pollution Control Equipment,1989,547,$330.44,false,false,false,false,false,true,$5.13,185,9,Yearly,0.0,true
+639,true,"Marsh & McLennan Companies, Inc.",Specialty Insurers,2000,29,$470.82,false,true,false,false,false,true,$4.00,311,4,Yearly,0.1,true
+640,false,Taylor Morrison Home Corporation,Homebuilding,2010,710,$207.05,false,true,true,true,false,true,$2.13,97,8,Once,0.9,false
+641,true,Wells Fargo & Company,n/a,2006,571,$261.39,true,false,false,true,false,false,$0.33,341,11,Never,4.2,true
+642,false,Turquoise Hill Resources Ltd.,Precious Metals,2003,808,$276.97,false,false,false,true,false,false,$4.13,228,2,Weekly,0.3,true
+643,false,"BioScrip, Inc.",Medical/Nursing Services,1993,726,$389.92,false,true,true,false,false,false,$5.53,207,2,Yearly,2.1,false
+644,true,"Sigma Designs, Inc.",Semiconductors,2000,696,$204.63,false,false,true,false,true,true,$3.79,276,3,Daily,1.7,false
+645,true,"McDermott International, Inc.",Metal Fabrications,2003,493,$302.59,false,false,true,true,true,false,$2.65,301,1,Weekly,1.3,false
+646,true,China Life Insurance Company Limited,Life Insurance,2005,446,$87.43,true,true,true,false,true,false,$8.43,71,10,Yearly,0.1,false
+647,true,Bel Fuse Inc.,Electrical Products,2008,472,$363.04,false,true,true,true,false,false,$7.82,284,9,Monthly,1.3,false
+648,true,"Stag Industrial, Inc.",n/a,1992,572,$362.90,false,true,false,true,true,true,$0.81,241,4,Daily,0.3,false
+649,true,National General Holdings Corp,Property-Casualty Insurers,2005,630,$87.24,false,true,false,true,true,true,$1.63,50,11,Weekly,1.3,true
+650,false,"Tortoise Power and Energy Infrastructure Fund, Inc",n/a,2000,351,$37.84,true,false,false,true,false,true,$1.56,151,10,Never,0.5,false
+651,true,Stantec Inc,Military/Government/Technical,1989,784,$379.57,true,false,false,false,false,false,$4.90,198,10,Seldom,3.9,false
+652,false,"Intellia Therapeutics, Inc.",Biotechnology: In Vitro & In Vivo Diagnostic Substances,1986,253,$86.74,false,true,false,false,false,false,$2.23,15,4,Daily,0.1,false
+653,false,"Lake Shore Bancorp, Inc.",Savings Institutions,1996,146,$367.37,false,true,false,false,true,true,$0.69,222,4,Yearly,3.6,true
+654,true,"Penn National Gaming, Inc.",Hotels/Resorts,1990,694,$8.29,false,false,false,false,false,true,$5.90,282,2,Daily,1.6,false
+655,false,"Telephone and Data Systems, Inc.",Telecommunications Equipment,2006,219,$406.49,true,true,true,true,false,true,$6.98,261,1,Never,2.7,true
+656,false,"Exelixis, Inc.",Biotechnology: Commercial Physical & Biological Resarch,2004,767,$61.77,false,false,false,false,true,false,$1.80,325,10,Weekly,1.1,false
+657,false,"M I Acquisitions, Inc.",n/a,1994,853,$314.77,true,true,true,true,true,true,$7.41,214,10,Daily,3.9,true
+658,true,CU Bancorp (CA),Major Banks,2010,223,$473.12,false,true,true,false,false,false,$3.46,253,4,Seldom,4.5,false
+659,true,"CYS Investments, Inc.",n/a,2003,3,$453.37,true,true,true,false,true,true,$9.65,231,12,Daily,0.7,true
+660,true,"Pluristem Therapeutics, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),2007,390,$427.38,true,true,true,true,true,false,$5.77,311,8,Daily,0.5,false
+661,true,Global X Social Media ETF,n/a,2007,789,$430.45,true,false,true,false,false,false,$4.86,248,10,Seldom,3.4,true
+662,false,"America Movil, S.A.B. de C.V.",Telecommunications Equipment,2006,47,$396.31,false,true,true,true,false,false,$5.42,15,12,Often,4.3,true
+663,false,GDS Holdings Limited,"Computer Software: Programming, Data Processing",2009,579,$232.44,false,false,true,false,true,false,$7.77,208,5,Monthly,2.8,false
+664,true,Acceleron Pharma Inc.,Biotechnology: Biological Products (No Diagnostic Substances),1993,413,$316.28,false,false,true,false,true,true,$2.91,317,9,Often,2.1,false
+665,false,"Parke Bancorp, Inc.",Major Banks,1991,366,$470.61,false,true,false,true,true,false,$5.76,113,9,Daily,2.3,true
+666,true,Hersha Hospitality Trust,Real Estate Investment Trusts,1995,293,$174.15,true,true,false,true,true,true,$8.73,252,4,Seldom,2.0,false
+667,false,DDR Corp.,n/a,1996,927,$208.16,false,false,true,true,true,false,$3.27,244,4,Daily,2.6,true
+668,false,"Nu Skin Enterprises, Inc.",Other Pharmaceuticals,2003,105,$7.25,false,false,false,false,false,true,$2.92,353,4,Monthly,4.0,false
+669,true,"Proto Labs, Inc.",Metal Fabrications,2005,628,$306.61,false,true,true,true,false,true,$8.28,80,9,Never,4.5,false
+670,false,PowerShares Global Gold & Precious Metals Portfolio,n/a,2005,914,$220.58,false,true,true,false,true,true,$3.52,241,8,Never,4.1,true
+671,true,Luminex Corporation,Medical/Dental Instruments,2007,58,$200.90,true,true,true,false,true,true,$8.20,27,5,Never,0.3,true
+672,true,TCF Financial Corporation,n/a,1994,74,$177.66,true,false,false,false,true,false,$0.83,364,1,Once,0.7,false
+673,true,OCI Partners LP,Major Chemicals,2006,507,$184.97,false,false,false,false,true,true,$0.84,66,1,Seldom,3.4,false
+674,true,Vanguard Global ex-U.S. Real Estate ETF,n/a,1990,63,$19.13,false,false,false,true,true,false,$3.26,61,3,Seldom,3.4,false
+675,false,"Revolution Lighting Technologies, Inc.",Building Products,2011,542,$411.44,false,true,false,false,true,false,$5.52,354,3,Once,3.6,true
+676,true,W.P. Carey Inc.,Real Estate Investment Trusts,2012,731,$105.98,false,true,false,false,true,false,$1.29,286,7,Yearly,4.9,true
+677,true,"WhiteHorse Finance, Inc.",n/a,1988,412,$180.91,false,false,true,true,false,true,$8.95,277,8,Weekly,0.2,true
+678,false,Pioneer Municipal High Income Trust,n/a,2013,259,$291.92,true,false,true,true,true,false,$8.83,46,12,Often,4.8,true
+679,false,"PT Telekomunikasi Indonesia, Tbk",Telecommunications Equipment,1997,115,$113.98,false,false,false,true,false,true,$5.18,314,2,Weekly,1.8,true
+680,true,"McCormick & Company, Incorporated",Packaged Foods,2012,197,$15.24,true,false,true,true,false,true,$6.21,337,7,Seldom,1.0,true
+681,true,Rosehill Resources Inc.,Oil & Gas Production,1994,507,$117.79,false,false,false,true,true,false,$7.81,337,12,Weekly,2.9,true
+682,true,"Stratasys, Ltd.",Computer peripheral equipment,1962,808,$398.39,true,true,true,true,true,true,$9.68,25,7,Seldom,0.1,true
+683,true,"51job, Inc.",Diversified Commercial Services,2004,447,$34.43,false,false,false,true,false,false,$8.32,274,11,Monthly,2.4,true
+684,true,NeuroDerm Ltd.,Major Pharmaceuticals,1999,10,$396.32,false,false,false,true,false,true,$7.35,274,3,Never,3.1,true
+685,false,"Raven Industries, Inc.",Specialty Chemicals,1994,307,$156.73,true,false,true,false,false,false,$8.52,273,3,Never,0.8,false
+686,true,"Gap, Inc. (The)",Clothing/Shoe/Accessory Stores,1999,545,$107.95,true,false,true,false,false,true,$2.29,52,4,Often,1.1,false
+687,false,Orange,Telecommunications Equipment,1995,476,$461.52,true,false,false,false,true,false,$9.00,264,9,Often,1.5,true
+688,true,Addus HomeCare Corporation,Medical/Nursing Services,2009,986,$398.60,false,true,false,true,true,false,$6.29,15,10,Weekly,1.6,false
+689,true,Fifth Street Asset Management Inc.,Investment Managers,2005,41,$113.56,false,true,false,true,false,true,$9.89,352,6,Monthly,2.3,false
+690,true,Eaton Vance Tax-Managed Diversified Equity Income Fund,n/a,1998,495,$490.98,false,false,true,false,false,true,$6.96,306,2,Often,3.6,false
+691,true,"Scripps Networks Interactive, Inc",Television Services,1999,902,$2.60,false,true,false,false,true,false,$2.60,50,4,Yearly,4.4,true
+692,false,iShares MSCI USA ESG Optimized ETF,n/a,2009,785,$86.48,false,true,false,true,false,true,$2.08,217,10,Monthly,3.7,true
+693,false,UBS AG,Major Banks,2010,932,$205.48,false,false,false,true,true,false,$6.02,148,4,Often,4.1,true
+694,true,"The Hanover Insurance Group, Inc.",Property-Casualty Insurers,1998,977,$301.46,false,true,false,false,false,true,$7.00,20,2,Yearly,0.8,false
+695,true,"Innovative Solutions and Support, Inc.",EDP Services,1980,890,$26.66,false,true,false,true,false,false,$7.40,203,1,Yearly,0.3,true
+696,true,"Easterly Government Properties, Inc.",Real Estate Investment Trusts,1994,55,$424.64,true,false,false,false,true,false,$7.48,361,2,Monthly,0.9,true
+697,false,Paragon Commercial Corporation,Major Banks,2007,833,$16.85,false,true,true,false,false,true,$0.62,234,5,Seldom,4.6,true
+698,false,"SMART Global Holdings, Inc.",Semiconductors,2003,54,$109.24,true,false,false,false,false,true,$6.85,365,9,Often,0.2,true
+699,true,The Joint Corp.,Multi-Sector Companies,2011,222,$414.05,false,true,false,true,false,true,$2.85,363,7,Seldom,2.6,true
+700,true,FIRST REPUBLIC BANK,n/a,2007,591,$270.26,false,false,true,true,false,false,$2.01,357,8,Yearly,3.0,false
+701,true,Annaly Capital Management Inc,n/a,1996,554,$106.33,false,true,false,false,true,false,$5.94,19,12,Daily,4.5,false
+702,true,Tecogen Inc.,Industrial Machinery/Components,2004,646,$378.51,true,true,true,true,false,true,$0.69,81,4,Never,2.7,true
+703,false,West Corporation,Business Services,2001,252,$236.59,false,false,true,true,true,true,$0.88,202,11,Weekly,4.1,true
+704,true,Quinpario Acquisition Corp. 2,Business Services,1970,452,$328.22,false,false,true,false,false,true,$1.93,361,7,Never,4.0,false
+705,false,ProQR Therapeutics N.V.,Major Pharmaceuticals,2007,908,$25.85,true,true,false,false,false,false,$7.76,49,12,Yearly,1.5,false
+706,false,Washington Real Estate Investment Trust,n/a,1987,854,$10.50,false,false,true,false,true,false,$9.25,219,10,Once,1.8,true
+707,true,"Dime Community Bancshares, Inc.",Savings Institutions,2006,370,$260.20,false,false,false,false,false,false,$6.79,220,7,Yearly,0.2,false
+708,true,Winmark Corporation,Other Specialty Stores,1996,779,$484.73,true,true,false,false,true,true,$4.39,356,3,Monthly,0.2,true
+709,true,"Banco Santander, S.A.",n/a,2001,358,$177.37,true,true,true,true,true,false,$3.99,53,3,Seldom,3.3,true
+710,false,Endo International plc,Major Pharmaceuticals,1992,581,$319.71,false,true,true,true,false,false,$7.10,93,4,Once,1.0,false
+711,false,CytRx Corporation,Biotechnology: Biological Products (No Diagnostic Substances),2000,663,$164.01,false,true,false,false,true,true,$7.72,164,5,Yearly,1.2,true
+712,true,First Trust Municipal CEF Income Opportunity ETF,n/a,2003,430,$493.68,false,false,true,true,true,false,$7.44,250,12,Never,3.5,false
+713,true,Methanex Corporation,Major Chemicals,2001,84,$349.96,true,true,false,false,false,false,$9.04,286,6,Weekly,0.9,false
+714,false,Infinera Corporation,Telecommunications Equipment,1989,65,$260.62,true,true,true,true,true,false,$7.94,25,4,Weekly,3.0,false
+715,true,Radware Ltd.,Business Services,1999,452,$187.11,false,false,true,false,false,true,$2.99,194,4,Never,2.3,false
+716,false,UMB Financial Corporation,Major Banks,1993,273,$233.20,true,true,true,false,false,true,$6.60,39,5,Weekly,4.3,true
+717,true,"Intrepid Potash, Inc",Mining & Quarrying of Nonmetallic Minerals (No Fuels),2006,296,$218.06,true,false,true,false,false,true,$0.24,138,12,Daily,4.6,true
+718,true,"Berkshire Hills Bancorp, Inc.",Banks,2008,222,$189.42,true,true,false,false,false,false,$2.71,196,8,Weekly,4.1,true
+719,true,TearLab Corporation,Medical/Dental Instruments,1999,358,$181.43,true,true,true,true,true,false,$6.46,316,7,Seldom,4.3,true
+720,true,"LifePoint Health, Inc.",Hospital/Nursing Management,2007,432,$81.68,true,false,true,true,false,true,$7.01,127,10,Daily,3.4,false
+721,true,"Sunworks, Inc.",Telecommunications Equipment,1990,383,$201.29,true,false,false,true,true,true,$7.20,82,4,Yearly,4.6,false
+722,true,Capital One Financial Corporation,n/a,1989,791,$220.18,false,false,false,false,true,false,$6.91,332,3,Often,2.3,true
+723,false,iShares Commodities Select Strategy ETF,n/a,2011,146,$273.88,true,true,true,false,true,true,$0.77,176,7,Monthly,1.0,true
+724,true,"World Wrestling Entertainment, Inc.",Movies/Entertainment,1986,160,$440.98,true,true,true,false,false,false,$5.98,121,10,Often,2.0,false
+725,false,Nano Dimension Ltd.,Electrical Products,1999,884,$384.79,true,true,false,true,true,true,$5.64,45,8,Seldom,1.1,false
+726,false,"Zillow Group, Inc.",Business Services,2005,99,$220.89,true,true,false,false,true,false,$0.88,174,6,Monthly,1.6,false
+727,true,"Barracuda Networks, Inc.",Computer peripheral equipment,1999,246,$427.10,false,true,true,false,false,false,$9.14,245,9,Weekly,2.9,true
+728,true,Westpac Banking Corporation,Commercial Banks,2009,866,$76.54,true,true,true,true,true,false,$9.23,154,10,Yearly,2.9,true
+729,false,"Titan Pharmaceuticals, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1998,911,$449.99,false,false,false,true,false,true,$8.91,354,5,Seldom,1.4,true
+730,false,"Liberty TripAdvisor Holdings, Inc.",EDP Services,2010,435,$492.10,false,true,false,true,false,true,$2.37,243,9,Often,1.0,false
+731,true,WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F,n/a,2005,632,$222.06,false,true,false,true,true,false,$3.40,245,6,Once,4.3,false
+732,false,McDonald&#39;s Corporation,Restaurants,2006,666,$155.41,false,false,true,true,false,true,$6.70,7,3,Daily,1.9,true
+733,false,Prudential Public Limited Company,Life Insurance,2006,652,$443.49,true,true,false,false,false,true,$5.51,171,7,Weekly,3.2,true
+734,true,Nuveen Ohio Quality Municipal Income Fund,n/a,1983,865,$173.14,false,false,true,false,true,false,$6.97,260,3,Once,4.1,true
+735,false,Repros Therapeutics Inc.,Biotechnology: Biological Products (No Diagnostic Substances),2009,113,$486.27,false,true,false,true,false,true,$3.41,234,4,Never,3.0,true
+736,false,"Apple Hospitality REIT, Inc.",Real Estate Investment Trusts,2010,673,$111.78,false,false,true,true,false,false,$8.98,25,4,Monthly,4.6,false
+737,true,"Himax Technologies, Inc.",Semiconductors,2007,779,$490.45,false,false,true,false,true,true,$6.24,332,5,Daily,1.8,true
+738,true,"NanoString Technologies, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1995,347,$161.61,false,false,false,false,false,false,$4.19,116,2,Yearly,2.7,true
+739,true,Gladstone Investment Corporation,n/a,1982,926,$285.07,false,false,true,false,true,false,$7.29,102,6,Often,1.6,false
+740,false,J P Morgan Chase & Co,n/a,2004,379,$276.81,false,false,false,false,true,true,$5.50,306,8,Weekly,2.0,true
+741,false,Hutchison China MediTech Limited,Major Pharmaceuticals,2001,374,$378.44,false,false,false,true,false,true,$8.00,83,9,Daily,0.9,true
+742,false,"Pain Therapeutics, Inc.",Major Pharmaceuticals,1990,990,$358.12,false,false,true,true,false,true,$0.28,114,9,Never,0.1,true
+743,false,California First National Bancorp,Major Banks,1991,245,$490.07,false,false,false,false,false,true,$6.42,115,3,Seldom,4.9,false
+744,true,The Organics ETF,n/a,2003,578,$309.98,true,true,true,false,true,false,$3.78,294,2,Yearly,3.0,false
+745,false,"The Michaels Companies, Inc.",Recreational Products/Toys,1992,85,$125.11,false,true,true,false,true,false,$5.93,202,12,Monthly,2.3,false
+746,true,"Grifols, S.A.",Major Pharmaceuticals,2006,795,$9.59,false,true,true,true,true,false,$8.31,123,4,Seldom,3.4,true
+747,false,Carnival Corporation,Marine Transportation,2007,334,$427.88,false,true,false,true,true,false,$6.55,6,8,Weekly,4.1,true
+748,false,PetroChina Company Limited,Oil & Gas Production,1997,517,$46.07,false,false,true,false,false,true,$9.87,81,2,Monthly,4.7,true
+749,true,"Tetraphase Pharmaceuticals, Inc.",Major Pharmaceuticals,1975,168,$313.50,false,true,true,true,true,false,$1.58,79,8,Daily,1.8,true
+750,true,Cubic Corporation,Industrial Machinery/Components,2010,117,$188.09,true,true,false,true,false,false,$6.90,174,8,Daily,2.5,false
+751,false,"TPG Specialty Lending, Inc.",n/a,1997,938,$30.58,false,false,true,false,false,false,$1.20,87,1,Daily,2.1,true
+752,false,"Manning & Napier, Inc.",Investment Managers,1994,198,$206.60,true,true,false,true,false,true,$0.51,257,1,Seldom,2.1,true
+753,true,Babcock,Building Products,2004,337,$469.81,false,false,false,true,false,false,$7.00,24,7,Seldom,0.2,true
+754,true,Semtech Corporation,Semiconductors,1990,799,$443.41,true,true,true,true,true,false,$4.10,229,2,Daily,3.2,false
+755,true,Delta Technology Holdings Limited,Major Chemicals,1999,231,$414.80,true,false,false,true,true,true,$7.10,362,11,Monthly,4.7,false
+756,false,iSectors Post-MPT Growth ETF,n/a,2009,168,$214.43,false,true,true,true,true,false,$6.42,169,8,Once,4.5,false
+757,false,"CoreCivic, Inc.",Real Estate Investment Trusts,1994,308,$299.10,false,false,false,true,false,false,$7.58,179,7,Weekly,1.5,false
+758,false,Toyota Motor Corp Ltd Ord,Auto Manufacturing,1996,574,$66.37,true,false,true,false,true,false,$2.47,37,8,Daily,1.1,true
+759,false,"Patriot Transportation Holding, Inc.",Trucking Freight/Courier Services,1985,903,$442.75,false,true,false,false,true,false,$0.49,156,2,Never,5.0,false
+760,true,CONSOL Energy Inc.,Coal Mining,2000,77,$367.54,false,false,false,false,false,true,$3.74,210,8,Never,4.5,false
+761,true,"MIDSTATES PETROLEUM COMPANY, INC.",Oil & Gas Production,2000,762,$352.83,false,false,true,false,false,false,$4.46,83,1,Yearly,0.8,true
+762,true,Vince Holding Corp.,Clothing/Shoe/Accessory Stores,2012,230,$431.78,false,false,false,true,true,true,$1.48,311,1,Never,1.3,false
+763,false,Monotype Imaging Holdings Inc.,EDP Services,1991,579,$238.16,false,false,false,true,false,false,$5.24,56,1,Yearly,1.6,true
+764,false,Xenon Pharmaceuticals Inc.,Major Pharmaceuticals,1985,759,$28.34,true,true,true,false,false,false,$6.98,352,4,Weekly,2.1,true
+765,true,UroGen Pharma Ltd.,Major Pharmaceuticals,2009,328,$369.75,true,true,true,false,false,true,$8.96,38,3,Weekly,1.8,true
+766,true,Realty Income Corporation,Real Estate Investment Trusts,2002,34,$167.99,true,true,true,true,false,false,$0.33,86,3,Monthly,4.4,false
+767,false,Paragon Commercial Corporation,Major Banks,1998,366,$418.69,true,false,false,true,true,true,$1.58,90,6,Never,0.6,false
+768,false,"Donegal Group, Inc.",Property-Casualty Insurers,2008,76,$416.43,false,true,true,true,false,true,$2.11,249,9,Yearly,3.0,true
+769,false,"First Savings Financial Group, Inc.",Savings Institutions,2012,901,$161.26,true,false,true,true,false,false,$8.04,154,6,Monthly,2.3,true
+770,false,Gentex Corporation,Auto Parts:O.E.M.,2010,884,$450.07,true,true,true,false,true,false,$1.10,296,12,Weekly,0.7,false
+771,true,"Otonomy, Inc.",Major Pharmaceuticals,1993,691,$393.56,false,false,false,false,false,true,$8.52,43,5,Once,1.1,false
+772,false,First South Bancorp Inc,Major Banks,2009,718,$331.21,true,true,true,false,true,false,$9.33,139,9,Monthly,3.6,false
+773,true,Changyou.com Limited,Computer Software: Prepackaged Software,2002,358,$477.45,false,false,true,false,true,true,$3.00,145,9,Monthly,3.6,false
+774,true,Invesco Trust  for Investment Grade New York Municipal,n/a,2001,461,$66.86,false,false,true,false,false,true,$3.90,20,8,Often,2.8,true
+775,false,W.R. Grace & Co.,Major Chemicals,1994,396,$1.86,false,false,true,true,false,true,$7.85,173,3,Often,3.1,true
+776,true,Coca-Cola Company (The),Beverages (Production/Distribution),2005,674,$23.92,false,false,false,true,false,true,$4.45,7,4,Yearly,0.4,true
+777,false,"Fitbit, Inc.",Computer Manufacturing,2012,715,$207.92,false,false,false,true,true,false,$3.75,27,8,Weekly,4.8,false
+778,true,Xinyuan Real Estate Co Ltd,Homebuilding,1998,336,$115.63,false,true,true,true,true,false,$4.74,84,7,Once,1.0,false
+779,false,MFS Municipal Income Trust,n/a,1997,513,$148.21,true,true,false,false,false,false,$7.16,175,12,Often,3.6,false
+780,true,LiNiu Technology Group,Services-Misc. Amusement & Recreation,2005,420,$99.95,false,true,true,false,true,false,$4.22,331,3,Once,2.6,true
+781,false,"Airgain, Inc.",Radio And Television Broadcasting And Communications Equipment,2000,987,$481.67,false,false,true,true,true,true,$4.63,188,3,Often,3.2,false
+782,true,RAIT Financial Trust,Real Estate Investment Trusts,1999,835,$17.01,true,true,true,false,false,true,$6.65,235,12,Seldom,4.0,false
+783,false,Deluxe Corporation,Publishing,2004,912,$99.63,false,true,true,true,true,false,$6.21,191,2,Never,0.5,true
+784,true,Bank of America Corporation,n/a,1998,369,$316.53,false,false,false,true,false,true,$1.04,276,2,Yearly,4.9,false
+785,true,"Knight Transportation, Inc.",Trucking Freight/Courier Services,1987,691,$11.24,false,false,false,false,false,true,$9.97,116,10,Often,4.4,true
+786,false,Seneca Foods Corp.,Packaged Foods,2012,432,$151.83,true,true,true,true,true,false,$6.78,232,11,Daily,2.0,false
+787,true,"Cracker Barrel Old Country Store, Inc.",Restaurants,2000,262,$73.41,true,false,true,false,false,false,$1.44,142,9,Seldom,4.7,true
+788,false,Accuray Incorporated,Medical/Dental Instruments,2007,931,$128.13,false,true,false,true,false,true,$5.40,44,10,Daily,2.5,false
+789,true,"SORL Auto Parts, Inc.",Auto Parts:O.E.M.,1993,736,$128.70,true,false,false,false,true,false,$2.38,143,9,Daily,3.7,false
+790,false,"Okta, Inc.",Computer Software: Prepackaged Software,2001,650,$429.24,true,true,false,false,true,true,$3.37,139,11,Once,3.4,true
+791,false,"DigitalGlobe, Inc",Telecommunications Equipment,1996,167,$25.65,false,false,false,true,true,false,$4.77,127,10,Seldom,4.6,true
+792,false,Resource Capital Corp.,n/a,1990,811,$323.83,true,false,true,true,false,false,$8.89,245,7,Once,1.7,true
+793,true,Capitala Finance Corp.,n/a,2010,386,$123.11,false,false,true,true,false,true,$7.75,126,4,Once,2.2,true
+794,true,China Zenix Auto International Limited,Auto Parts:O.E.M.,2007,930,$78.15,true,false,true,true,false,true,$3.70,100,9,Yearly,3.3,false
+795,false,"Viking Therapeutics, Inc.",Major Pharmaceuticals,1993,226,$196.69,false,false,false,false,true,false,$8.39,157,11,Never,3.5,true
+796,true,"Flexion Therapeutics, Inc.",Major Pharmaceuticals,1997,135,$410.71,false,false,true,true,true,true,$0.46,27,10,Weekly,3.6,true
+797,false,"Depomed, Inc.",Major Pharmaceuticals,1985,451,$273.60,false,false,false,true,false,true,$9.87,215,11,Daily,4.9,false
+798,true,TOP Ships Inc.,Marine Transportation,1962,910,$138.48,true,false,false,false,true,false,$1.26,91,4,Yearly,0.5,true
+799,true,Allstate Corporation (The),n/a,1992,523,$227.13,false,true,true,true,false,true,$3.83,61,2,Daily,4.6,true
+800,true,"Chipotle Mexican Grill, Inc.",Restaurants,1977,29,$66.42,false,false,true,true,false,true,$0.24,190,5,Seldom,1.6,true
+801,false,John Hancock Preferred Income Fund,n/a,1997,124,$412.55,false,false,false,true,false,true,$2.25,269,4,Seldom,2.9,true
+802,true,Kitov Pharmaceuticals Holdings Ltd.,Major Pharmaceuticals,2008,171,$111.39,true,false,false,false,true,true,$3.60,59,8,Never,4.1,true
+803,false,National Storage Affiliates Trust,Real Estate Investment Trusts,2004,522,$291.31,true,false,false,true,true,true,$2.80,134,1,Seldom,2.9,true
+804,false,Geospace Technologies Corporation,Industrial Machinery/Components,2007,813,$364.00,true,true,true,false,false,true,$0.71,13,3,Monthly,3.9,false
+805,true,Blackrock MuniYield Pennsylvania Quality Fund,n/a,1966,24,$252.37,true,true,true,true,true,true,$4.58,115,3,Never,2.7,true
+806,true,"Polar Power, Inc.",n/a,1993,768,$464.14,true,false,true,false,true,false,$9.90,257,10,Weekly,1.8,false
+807,false,New Home Company Inc. (The),Homebuilding,2005,116,$25.26,true,false,false,true,true,false,$9.29,192,12,Daily,0.5,true
+808,false,Cognex Corporation,Industrial Machinery/Components,2008,345,$421.91,true,true,true,true,false,true,$3.68,148,9,Often,1.1,true
+809,false,"Alico, Inc.",Farming/Seeds/Milling,1997,389,$6.24,false,true,true,false,true,true,$7.20,95,3,Monthly,1.6,true
+810,false,Forum Merger Corporation,Business Services,2009,821,$175.75,true,true,false,true,false,false,$8.23,74,2,Never,3.7,false
+811,true,Enterprise Products Partners L.P.,Natural Gas Distribution,2010,609,$338.14,true,true,false,false,true,true,$9.72,21,8,Often,1.4,true
+812,true,"Windstream Holdings, Inc.",Telecommunications Equipment,2007,459,$116.21,true,true,false,true,false,false,$9.76,360,3,Once,2.0,true
+813,false,"Verisk Analytics, Inc.",EDP Services,2004,519,$231.75,false,false,false,true,true,true,$9.86,325,3,Monthly,2.3,true
+814,false,Capitala Finance Corp.,n/a,2006,475,$94.09,true,true,true,false,true,true,$6.21,88,6,Monthly,3.0,false
+815,false,Harmony Merger Corp.,Oil & Gas Production,2006,327,$42.89,true,false,false,true,false,true,$9.47,158,7,Often,0.9,false
+816,true,Intrexon Corporation,Biotechnology: Commercial Physical & Biological Resarch,1986,40,$92.78,false,false,false,false,true,false,$0.02,108,11,Daily,4.6,false
+817,false,Resource Capital Corp.,Real Estate Investment Trusts,2008,554,$183.59,true,false,true,true,true,true,$8.07,156,12,Seldom,2.2,false
+818,false,Solar Capital Ltd.,n/a,1985,338,$45.73,false,false,false,true,false,false,$2.61,148,11,Once,5.0,false
+819,true,Exelon Corporation,Power Generation,1999,256,$113.35,false,false,true,true,false,false,$9.11,191,2,Weekly,2.9,false
+820,true,"MFA Financial, Inc.",Real Estate Investment Trusts,1985,779,$432.02,true,false,false,false,true,true,$4.62,242,12,Weekly,4.8,true
+821,false,Fortress Investment Group LLC,Investment Managers,1989,529,$392.51,true,false,true,false,false,true,$8.95,137,10,Never,3.6,true
+822,true,"Perma-Pipe International Holdings, Inc.",Pollution Control Equipment,2006,635,$454.01,true,true,false,true,false,false,$2.15,67,9,Once,4.5,true
+823,false,Louisiana-Pacific Corporation,Forest Products,2003,503,$32.22,false,true,false,false,false,false,$4.18,71,9,Weekly,0.3,false
+824,true,Norfolk Souther Corporation,Railroads,2011,624,$373.72,true,true,false,false,false,true,$7.13,175,9,Never,1.2,true
+825,true,Navios Maritime Midstream Partners LP,n/a,2007,800,$495.17,false,false,true,true,true,true,$5.33,29,4,Never,2.8,false
+826,true,"New York & Company, Inc.",Clothing/Shoe/Accessory Stores,1993,892,$73.89,true,true,true,false,true,true,$9.36,243,6,Daily,1.6,true
+827,false,Panhandle Royalty Company,Oil & Gas Production,1996,239,$470.64,false,false,true,false,true,false,$8.26,5,8,Seldom,2.0,false
+828,false,Entergy Corporation,Electric Utilities: Central,2009,448,$94.38,false,true,true,false,true,false,$6.90,48,1,Seldom,1.8,false
+829,true,CMS Energy Corporation,Power Generation,2002,752,$271.00,false,true,false,true,false,true,$2.90,29,10,Never,3.5,true
+830,true,Brightcove Inc.,EDP Services,1993,472,$234.22,true,true,false,true,false,false,$6.47,30,12,Weekly,4.8,false
+831,true,Weyerhaeuser Company,Real Estate Investment Trusts,1995,967,$46.74,false,true,true,true,true,false,$5.29,277,8,Often,2.8,true
+832,false,X-Links Silver Shares Covered Call ETN,Investment Bankers/Brokers/Service,2002,498,$311.09,true,false,true,true,true,false,$1.11,317,6,Weekly,3.3,false
+833,true,First Trust Mid Cap Value AlphaDEX Fund,n/a,2009,828,$393.41,true,true,false,true,true,true,$0.24,276,1,Weekly,2.3,false
+834,false,PLx Pharma Inc.,Major Pharmaceuticals,1996,11,$80.33,false,false,true,false,true,false,$4.84,126,7,Seldom,3.0,false
+835,true,People&#39;s Utah Bancorp,Major Banks,1999,796,$187.95,true,true,true,true,false,true,$2.18,323,7,Never,4.5,true
+836,true,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",n/a,1993,473,$129.23,true,false,false,false,true,false,$7.12,243,3,Often,4.1,false
+837,true,"CIRCOR International, Inc.",Metal Fabrications,1983,245,$295.66,true,false,true,false,false,false,$6.97,207,9,Often,1.2,true
+838,true,Approach Resources Inc.,Oil & Gas Production,2009,234,$122.62,false,false,true,false,false,false,$6.48,144,6,Often,3.1,true
+839,true,"Nuveen California Municipal Value Fund, Inc.",n/a,1997,904,$66.33,false,false,true,false,false,false,$5.77,252,3,Monthly,1.5,true
+840,true,"Townsquare Media, Inc.",Broadcasting,2003,176,$212.31,true,true,false,false,true,true,$1.19,39,10,Seldom,1.2,true
+841,false,"Tactile Systems Technology, Inc.",Medical/Dental Instruments,1987,104,$438.30,true,true,true,false,true,true,$6.46,104,9,Never,1.4,true
+842,false,DCP Midstream LP,Natural Gas Distribution,2006,219,$431.52,false,false,true,false,false,false,$8.64,1,8,Monthly,1.1,false
+843,true,MB Financial Inc.,Major Banks,1991,302,$62.54,false,true,false,false,false,true,$9.20,277,1,Never,3.9,false
+844,true,"Comstock Holding Companies, Inc.",Homebuilding,1996,805,$404.52,true,false,false,false,false,true,$7.54,340,11,Weekly,0.3,false
+845,true,Pacific Special Acquisition Corp.,Business Services,1989,443,$429.77,false,false,true,true,true,false,$5.33,285,2,Weekly,2.9,false
+846,false,"NRG Yield, Inc.",Electric Utilities: Central,1993,522,$416.08,false,false,true,true,true,true,$7.40,101,12,Daily,1.4,true
+847,false,"Rennova Health, Inc.",Precision Instruments,2006,924,$239.14,true,true,false,true,false,false,$0.72,44,6,Seldom,2.9,true
+848,true,"OpGen, Inc.",Medical Specialities,1993,877,$412.20,false,false,true,true,false,false,$1.18,58,7,Yearly,3.5,true
+849,false,"BGC Partners, Inc.",Investment Bankers/Brokers/Service,2001,815,$3.60,true,false,true,false,true,true,$2.74,51,10,Yearly,3.8,true
+850,false,Reading International Inc,Movies/Entertainment,2000,321,$227.78,false,true,false,false,true,true,$7.74,326,9,Seldom,4.3,false
+851,false,"Beazer Homes USA, Inc.",Homebuilding,1997,45,$384.46,true,true,false,false,false,true,$8.46,329,6,Often,3.4,false
+852,false,1st Constitution Bancorp (NJ),Savings Institutions,2004,82,$141.81,false,false,false,true,false,true,$5.73,61,2,Never,2.1,false
+853,true,North Atlantic Drilling Ltd.,Oil & Gas Production,2006,15,$14.48,false,true,true,true,true,true,$9.31,71,5,Once,3.5,false
+854,true,Solar Senior Capital Ltd.,n/a,1969,300,$217.65,true,true,false,false,true,false,$6.90,96,9,Yearly,3.3,false
+855,false,"Red Hat, Inc.","Computer Software: Programming, Data Processing",1985,669,$308.87,true,false,false,false,false,false,$9.69,231,10,Often,3.4,true
+856,true,"Qorvo, Inc.",Semiconductors,1999,167,$316.01,true,true,true,true,false,true,$3.68,38,3,Monthly,1.8,true
+857,false,Kamada Ltd.,Major Pharmaceuticals,1990,552,$330.88,true,true,true,true,true,true,$3.97,308,1,Often,0.6,true
+858,false,Cenovus Energy Inc,Oil & Gas Production,1989,963,$321.37,false,false,false,true,true,true,$8.30,241,10,Seldom,0.4,true
+859,true,Chemours Company (The),Major Chemicals,1997,249,$185.14,true,false,true,false,false,false,$9.83,234,12,Daily,3.7,true
+860,true,"TriNet Group, Inc.",Business Services,1995,916,$268.84,true,false,false,true,true,true,$6.48,224,12,Monthly,3.7,false
+861,true,Blackrock Florida Municipal 2020 Term Trust,n/a,2003,95,$18.85,false,false,true,false,true,true,$7.06,118,1,Once,3.4,false
+862,false,"Stein Mart, Inc.",Clothing/Shoe/Accessory Stores,1994,182,$222.76,true,true,true,false,true,false,$1.41,21,6,Daily,1.0,false
+863,false,Cohen & Steers Quality Income Realty Fund Inc,n/a,2008,985,$237.28,false,false,true,false,false,false,$2.77,314,6,Once,4.1,true
+864,false,Green Dot Corporation,Finance: Consumer Services,1984,42,$397.39,false,true,false,true,false,false,$9.67,219,10,Monthly,1.2,true
+865,true,Stifel Financial Corporation,Investment Bankers/Brokers/Service,1993,286,$210.35,false,false,true,true,true,false,$1.71,303,4,Daily,4.8,false
+866,true,"DineEquity, Inc",Restaurants,2011,494,$11.12,false,false,true,true,true,false,$9.07,340,4,Once,2.0,false
+867,true,Nuveen Quality Municipal Income Fund,n/a,2003,489,$118.23,false,true,true,false,true,false,$7.48,311,1,Often,1.8,false
+868,false,JetBlue Airways Corporation,Air Freight/Delivery Services,2007,866,$222.68,false,true,true,true,false,true,$8.98,196,10,Never,0.1,false
+869,false,First Trust/Aberdeen Emerging Opportunity Fund,n/a,1999,82,$7.59,true,true,true,true,true,true,$2.23,2,9,Daily,4.2,true
+870,true,"Veritone, Inc.",EDP Services,1994,410,$4.25,true,true,true,false,true,true,$0.28,266,8,Monthly,2.6,true
+871,true,Nuveen AMT-Free Municipal Value Fund,n/a,1997,155,$247.91,true,false,false,false,false,false,$3.89,69,12,Once,4.3,true
+872,false,"Bridge Bancorp, Inc.",Major Banks,2006,675,$138.08,true,false,true,false,true,true,$7.74,119,4,Once,0.5,false
+873,true,"Meridian Waste Solutions, Inc",Miscellaneous,1997,119,$477.87,false,false,false,false,false,true,$8.06,295,9,Weekly,4.8,true
+874,false,"SEACOR Holdings, Inc.",Marine Transportation,1992,526,$221.45,false,false,true,false,false,true,$2.20,216,6,Often,1.7,false
+875,false,Portland General Electric Company,Electric Utilities: Central,1994,393,$297.37,true,true,false,true,false,true,$3.10,95,3,Monthly,1.2,true
+876,true,Cemex S.A.B. de C.V.,Building Materials,1991,261,$395.82,true,false,true,true,false,false,$7.44,60,12,Monthly,3.4,true
+877,true,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",Real Estate Investment Trusts,1997,171,$181.07,true,false,false,false,false,true,$8.57,267,10,Weekly,4.5,true
+878,false,Occidental Petroleum Corporation,Oil & Gas Production,1995,975,$25.06,true,true,true,true,false,false,$1.16,340,2,Weekly,0.2,true
+879,true,Arthur J. Gallagher & Co.,Specialty Insurers,1994,380,$396.71,true,false,true,true,true,false,$0.47,233,9,Monthly,4.7,true
+880,false,Eltek Ltd.,Electrical Products,1997,765,$173.30,false,false,true,true,false,true,$9.62,297,8,Often,4.4,true
+881,true,"AmTrust Financial Services, Inc.",n/a,2011,940,$252.12,false,false,false,false,true,true,$9.76,118,2,Weekly,1.6,false
+882,true,Enel Generacion Chile S.A.,Electric Utilities: Central,2000,178,$245.78,true,true,false,false,true,false,$1.21,126,7,Never,2.0,true
+883,true,"PDL BioPharma, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1986,530,$218.43,false,true,false,true,false,false,$5.03,345,2,Never,1.8,false
+884,true,"OraSure Technologies, Inc.",Medical/Dental Instruments,2001,981,$405.01,true,true,true,false,false,true,$6.56,168,1,Once,1.5,true
+885,false,"Bankrate, Inc.",EDP Services,1997,231,$36.60,true,true,true,true,false,true,$5.62,309,5,Daily,1.1,false
+886,true,BlackRock Municipal Income Investment Trust,n/a,1966,688,$332.09,false,false,true,true,false,true,$3.07,20,9,Yearly,3.4,false
+887,false,Dataram Corporation,Electronic Components,1996,420,$23.17,true,false,false,false,true,false,$5.02,165,9,Yearly,2.2,false
+888,false,GigaMedia Limited,"Computer Software: Programming, Data Processing",2009,974,$475.59,false,true,true,true,true,true,$3.26,39,1,Monthly,1.9,true
+889,true,Air Lease Corporation,Diversified Commercial Services,1997,997,$238.67,false,false,false,true,true,true,$3.75,237,6,Weekly,2.7,true
+890,false,CIM Commercial Trust Corporation,Real Estate Investment Trusts,1992,266,$255.99,false,false,true,false,true,true,$3.59,273,9,Daily,1.5,true
+891,false,Quorum Health Corporation,Hospital/Nursing Management,2010,777,$322.63,true,false,true,false,true,false,$2.37,12,3,Never,0.5,false
+892,false,Park-Ohio Holdings Corp.,Industrial Specialties,1964,701,$89.77,true,true,false,false,false,true,$8.74,230,4,Weekly,2.9,true
+893,true,Silver Run Acquisition Corporation II,Business Services,1992,951,$260.18,false,true,false,false,true,true,$2.38,133,3,Monthly,0.6,true
+894,true,Asbury Automotive Group Inc,Automotive Aftermarket,1993,426,$423.83,true,false,true,false,true,false,$3.91,231,8,Once,0.5,false
+895,true,Psychemedics Corporation,Medical Specialities,2003,258,$432.80,false,true,false,true,false,false,$5.93,252,5,Never,0.1,false
+896,false,"Mitcham Industries, Inc.",Diversified Commercial Services,1986,396,$491.34,true,true,true,true,false,true,$9.42,171,5,Once,2.6,false
+897,true,New Media Investment Group Inc.,Newspapers/Magazines,2002,96,$369.41,false,true,false,true,false,true,$9.40,242,4,Never,1.0,true
+898,true,"Cohu, Inc.",Electrical Products,1994,134,$171.70,true,true,true,false,false,false,$3.31,301,10,Yearly,3.4,true
+899,false,"Hanwha Q CELLS Co., Ltd. ",Semiconductors,1988,363,$259.39,true,true,false,true,true,true,$0.83,62,6,Monthly,2.2,false
+900,false,Vanguard Russell 2000 Value ETF,n/a,2007,914,$299.61,true,true,true,false,false,true,$9.87,221,10,Yearly,4.0,false
+901,true,"Expedia, Inc.",Transportation Services,1997,648,$453.75,true,false,false,false,false,false,$1.65,40,1,Weekly,1.7,true
+902,false,BP Prudhoe Bay Royalty Trust,Integrated oil Companies,2012,33,$260.73,false,true,true,true,false,false,$6.76,42,8,Weekly,4.5,false
+903,true,JMP Group LLC,Investment Bankers/Brokers/Service,2003,978,$458.39,false,false,false,true,true,true,$0.62,331,9,Never,0.5,true
+904,false,"Achaogen, Inc.",Major Pharmaceuticals,2004,252,$262.33,false,false,true,true,true,true,$5.85,177,3,Seldom,1.6,true
+905,true,"Astec Industries, Inc.",Construction/Ag Equipment/Trucks,2006,359,$114.66,false,false,true,true,true,true,$8.21,346,3,Monthly,4.4,false
+906,true,Mosaic Company (The),Agricultural Chemicals,2005,902,$293.10,false,false,false,false,true,false,$6.70,314,11,Yearly,4.2,true
+907,false,Vornado Realty Trust,Real Estate Investment Trusts,1995,388,$398.94,false,true,true,true,false,false,$6.54,257,12,Never,4.3,true
+908,false,PowerShares DWA Momentum & Low Volatility Rotation Portfolio,n/a,1997,603,$335.01,true,true,false,true,false,true,$8.07,57,2,Daily,1.7,true
+909,false,TD Ameritrade Holding Corporation,Investment Bankers/Brokers/Service,2010,284,$467.09,false,false,false,true,false,false,$2.97,334,9,Weekly,4.3,true
+910,true,"Tanger Factory Outlet Centers, Inc.",Real Estate Investment Trusts,2007,258,$488.09,false,true,false,true,true,true,$3.23,105,10,Weekly,4.5,true
+911,false,Gabelli NextShares Trust,n/a,1998,155,$467.60,false,true,false,false,false,true,$2.15,51,10,Often,3.5,false
+912,true,Navios Maritime Holdings Inc.,Marine Transportation,2009,527,$255.12,true,false,true,true,false,false,$6.90,33,6,Daily,2.7,false
+913,true,Sunrun Inc.,Industrial Specialties,1989,400,$390.56,true,true,true,false,false,false,$8.50,221,2,Never,0.5,false
+914,false,"Burlington Stores, Inc.",Department/Specialty Retail Stores,2008,948,$232.44,true,false,false,false,true,false,$3.04,20,10,Once,1.3,true
+915,true,Blackrock Municipal 2020 Term Trust,n/a,2007,956,$130.81,true,true,true,true,true,false,$3.87,317,9,Weekly,0.1,true
+916,true,Newell Brands Inc.,Plastic Products,2001,467,$325.30,false,true,true,true,true,false,$8.80,334,6,Monthly,3.3,false
+917,false,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,Aerospace,1993,409,$337.61,false,false,false,false,false,true,$3.52,116,3,Seldom,3.7,false
+918,true,Seaspan Corporation,n/a,2002,301,$94.90,true,true,false,false,true,false,$7.39,18,12,Monthly,3.5,true
+919,true,DarioHealth Corp.,Medical/Dental Instruments,1998,909,$51.94,false,false,true,false,true,true,$0.67,287,4,Seldom,0.4,true
+920,true,"Orbital ATK, Inc.",Military/Government/Technical,1999,773,$53.13,true,true,true,true,true,false,$4.63,37,8,Yearly,2.8,true
+921,false,Emclaire Financial Corp,Major Banks,2011,232,$330.54,true,false,false,false,true,true,$3.35,97,3,Once,2.6,true
+922,true,AT&T Inc.,Telecommunications Equipment,1997,718,$457.47,true,false,true,false,true,false,$7.73,328,7,Often,4.8,true
+923,true,The Descartes Systems Group Inc.,Computer Software: Prepackaged Software,1997,879,$25.98,true,true,true,true,true,true,$9.78,53,5,Monthly,3.5,false
+924,false,Gabelli NextShares Trust,n/a,2005,932,$143.51,false,true,false,true,false,true,$2.75,89,11,Monthly,3.7,true
+925,true,Marlin Business Services Corp.,Major Banks,1997,632,$167.64,true,true,false,false,false,false,$9.32,151,6,Monthly,1.8,true
+926,true,Alphabet Inc.,"Computer Software: Programming, Data Processing",2006,329,$324.71,false,true,false,false,false,false,$7.70,315,12,Weekly,4.7,true
+927,true,Amdocs Limited,EDP Services,2008,103,$271.67,false,false,false,false,true,false,$4.09,300,7,Once,4.8,false
+928,true,"GenMark Diagnostics, Inc.",Medical/Dental Instruments,2012,444,$487.37,true,false,false,true,true,true,$8.74,339,11,Daily,3.9,true
+929,true,PowerShares Variable Rate Investment Grade Portfolio,n/a,1996,464,$301.02,false,false,false,true,false,true,$7.31,249,5,Seldom,0.9,true
+930,false,"Dupont Fabros Technology, Inc.",n/a,1967,278,$212.67,true,true,false,false,true,false,$0.79,166,8,Daily,2.4,true
+931,true,"Neustar, Inc.",Telecommunications Equipment,1992,442,$118.08,true,true,true,false,false,false,$1.92,101,12,Seldom,0.4,true
+932,false,Ashford Hospitality Trust Inc,n/a,2002,681,$344.78,false,false,false,true,false,false,$4.25,318,5,Seldom,4.0,true
+933,false,"JPMorgan China Region Fund, Inc.",n/a,1991,486,$215.09,true,true,false,true,true,false,$5.91,64,11,Once,0.3,false
+934,false,NOW Inc.,Metal Fabrications,1993,769,$275.97,false,false,false,false,true,false,$8.73,260,4,Weekly,4.5,true
+935,false,"CIRCOR International, Inc.",Metal Fabrications,1993,124,$180.09,false,true,false,false,true,false,$9.37,19,9,Once,3.7,false
+936,false,"Ecology and Environment, Inc.",Military/Government/Technical,1996,162,$447.24,true,true,true,false,false,false,$4.83,121,5,Often,0.1,true
+937,false,"NanoString Technologies, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1999,66,$253.43,false,true,false,false,true,true,$1.10,192,10,Often,4.5,true
+938,true,Independence Holding Company,Life Insurance,1993,178,$273.36,true,false,false,true,true,true,$9.17,28,7,Never,0.5,true
+939,true,"CSW Industrials, Inc.",Home Furnishings,1992,472,$11.87,false,true,false,false,true,false,$6.80,71,11,Once,1.1,false
+940,true,Zion Oil & Gas Inc,Oil & Gas Production,2005,323,$345.00,true,false,false,false,false,true,$6.86,119,10,Yearly,0.0,false
+941,true,"BWX Technologies, Inc.",Industrial Machinery/Components,1971,329,$166.48,true,true,true,false,true,true,$3.29,216,12,Often,0.8,true
+942,false,Analogic Corporation,Electrical Products,1999,478,$494.27,true,true,true,false,true,true,$5.34,145,9,Once,3.2,true
+943,false,Bright Horizons Family Solutions Inc.,Other Consumer Services,1993,628,$60.42,true,true,true,true,true,true,$5.52,132,11,Weekly,0.3,true
+944,true,Yamana Gold Inc.,Precious Metals,2003,537,$300.43,false,false,true,true,false,true,$9.83,8,10,Monthly,0.1,false
+945,true,Restaurant Brands International Inc.,Restaurants,1993,96,$357.92,false,true,true,false,false,true,$8.56,263,6,Once,0.1,false
+946,true,Berkshire Hathaway Inc.,n/a,1966,262,$218.88,true,true,true,true,false,true,$7.00,318,10,Never,1.6,false
+947,true,TopBuild Corp.,Engineering & Construction,2003,800,$250.68,true,true,false,true,true,false,$0.36,160,1,Weekly,0.5,false
+948,true,"Mueller Industries, Inc.",Metal Fabrications,1992,118,$241.92,false,true,false,true,true,true,$8.42,36,4,Weekly,3.4,false
+949,true,Reading International Inc,Movies/Entertainment,2008,482,$73.81,false,false,true,false,true,false,$7.96,187,1,Yearly,0.0,true
+950,false,Dorian LPG Ltd.,Marine Transportation,1994,294,$394.56,false,false,false,true,true,false,$3.01,88,5,Yearly,1.4,false
+951,false,Oxford Lane Capital Corp.,n/a,2004,726,$271.73,true,false,true,false,true,false,$4.24,290,10,Yearly,2.3,false
+952,true,"Raymond James Financial, Inc.",Investment Bankers/Brokers/Service,2002,415,$409.62,false,true,false,false,true,false,$1.05,332,2,Monthly,2.5,true
+953,false,"Digital Realty Trust, Inc.",Real Estate Investment Trusts,1997,818,$458.94,false,false,true,true,false,false,$9.28,60,7,Once,0.6,true
+954,true,Eagle Point Credit Company Inc.,n/a,2003,472,$49.39,false,true,false,true,false,false,$7.86,292,10,Never,1.1,true
+955,false,Hersha Hospitality Trust,Real Estate Investment Trusts,2012,193,$123.10,false,false,false,false,true,false,$5.31,273,8,Never,0.7,true
+956,false,GGP Inc.,Real Estate Investment Trusts,1993,722,$493.83,true,true,true,false,false,false,$1.62,145,9,Weekly,2.0,true
+957,false,Aegean Marine Petroleum Network Inc.,Oil Refining/Marketing,1999,898,$291.51,true,true,false,false,false,true,$3.25,351,9,Weekly,4.2,true
+958,false,Dividend and Income Fund,n/a,1996,669,$178.14,true,false,true,true,true,true,$7.68,219,10,Once,4.1,false
+959,false,Inphi Corporation,Semiconductors,2001,969,$141.70,true,true,true,false,true,false,$6.01,75,2,Never,4.6,true
+960,true,"Flexion Therapeutics, Inc.",Major Pharmaceuticals,1991,726,$191.22,false,false,true,true,false,false,$4.33,41,11,Yearly,2.8,false
+961,false,"XG Technology, Inc",Telecommunications Equipment,2006,792,$244.48,false,false,true,false,true,false,$2.33,364,4,Seldom,3.8,true
+962,true,Liberty Media Corporation,Broadcasting,2008,896,$21.88,false,true,true,false,false,false,$7.27,299,5,Often,1.2,false
+963,true,"Jason Industries, Inc.",Miscellaneous manufacturing industries,1967,506,$127.18,true,true,true,true,false,false,$8.09,236,4,Never,1.2,true
+964,true,"Commvault Systems, Inc.",Computer Software: Prepackaged Software,2004,601,$249.31,false,false,false,true,true,false,$5.23,206,8,Once,4.6,false
+965,true,Southwestern Energy Company,Oil & Gas Production,2001,470,$457.35,false,true,true,true,false,false,$0.60,225,9,Never,2.3,false
+966,true,Valley National Bancorp,n/a,1997,118,$90.92,true,true,false,true,false,true,$5.02,208,5,Yearly,3.9,false
+967,true,"WPX Energy, Inc.",Oil & Gas Production,2008,321,$8.16,true,true,true,true,false,false,$8.73,153,7,Yearly,3.2,true
+968,true,"Blackrock MuniYield New York Quality Fund, Inc.",n/a,1997,3,$297.09,true,true,true,true,true,false,$8.55,79,9,Seldom,0.8,false
+969,false,"Blueknight Energy Partners L.P., L.L.C.",Natural Gas Distribution,2005,983,$28.56,true,true,true,true,false,false,$0.47,232,10,Once,5.0,false
+970,false,PowerShares DWA Tactical Sector Rotation Portfolio,n/a,2010,465,$244.81,true,false,false,true,true,false,$0.30,284,10,Daily,4.9,true
+971,false,"Points International, Ltd.",Business Services,2009,501,$88.60,true,false,false,false,true,false,$2.74,163,2,Often,3.4,false
+972,false,Marathon Oil Corporation,Oil & Gas Production,2007,719,$407.08,true,true,true,false,false,false,$2.56,186,7,Seldom,1.9,true
+973,false,"Portola Pharmaceuticals, Inc.",Major Pharmaceuticals,2003,376,$70.88,false,false,true,false,true,false,$7.56,32,3,Once,0.2,true
+974,true,"Rexford Industrial Realty, Inc.",n/a,2009,853,$481.61,true,true,false,true,true,false,$5.43,313,8,Daily,1.4,true
+975,false,"FlexShopper, Inc.",Diversified Commercial Services,1997,230,$209.95,true,false,true,true,true,true,$7.20,264,1,Daily,2.3,false
+976,true,VictoryShares US Small Cap Volatility Wtd ETF,n/a,2003,637,$476.66,true,true,false,false,true,true,$0.71,85,2,Once,2.8,false
+977,false,ZIOPHARM Oncology Inc,Major Pharmaceuticals,2005,946,$59.15,false,false,false,false,true,false,$0.89,69,1,Yearly,2.1,true
+978,false,First Trust Switzerland AlphaDEX Fund,n/a,2008,773,$223.40,false,false,true,true,true,true,$7.41,236,1,Never,1.8,false
+979,true,Blackrock MuniHoldings Investment Quality Fund,n/a,1999,587,$122.16,true,true,true,true,false,true,$0.54,257,7,Weekly,1.5,true
+980,true,"NII Holdings, Inc.",Telecommunications Equipment,1992,938,$289.21,false,true,true,false,true,true,$3.22,12,10,Once,2.9,true
+981,true,Whirlpool Corporation,Consumer Electronics/Appliances,2003,209,$67.19,false,true,false,true,false,false,$5.19,30,10,Yearly,1.9,true
+982,false,"PC-Tel, Inc.",Radio And Television Broadcasting And Communications Equipment,2012,54,$219.58,false,true,false,true,false,true,$4.12,310,12,Never,4.5,true
+983,true,"PDL BioPharma, Inc.",Biotechnology: Biological Products (No Diagnostic Substances),1989,834,$148.31,true,false,true,false,true,false,$9.00,324,12,Often,4.2,false
+984,true,Immuron Limited,Major Pharmaceuticals,1991,577,$194.41,false,false,false,true,true,true,$6.82,118,7,Weekly,2.8,false
+985,true,"Sky Solar Holdings, Ltd.",Electric Utilities: Central,1968,926,$36.84,true,false,true,false,false,true,$9.70,167,8,Monthly,0.2,false
+986,false,"Baidu, Inc.","Computer Software: Programming, Data Processing",2002,691,$269.20,false,true,true,false,true,false,$5.66,334,8,Daily,3.7,true
+987,true,First Trust/Aberdeen Emerging Opportunity Fund,n/a,2002,230,$266.95,false,true,false,false,false,true,$8.49,171,12,Weekly,1.5,false
+988,false,Wells Fargo & Company,n/a,1999,522,$308.10,true,false,false,false,true,true,$2.45,201,6,Weekly,3.7,false
+989,false,"Tallgrass Energy Partners, LP",Natural Gas Distribution,2008,966,$68.90,false,true,true,false,true,true,$3.75,228,9,Monthly,0.9,false
+990,true,Itau Unibanco Banco Holding SA,Major Banks,2007,45,$347.68,true,false,true,true,false,true,$4.62,155,12,Weekly,2.3,true
+991,true,Morgan Stanley,n/a,2003,819,$498.57,false,false,true,true,true,false,$0.00,174,2,Often,2.6,true
+992,false,"Henry Schein, Inc.",Medical Specialities,2011,454,$497.87,true,true,false,true,true,true,$9.41,194,5,Yearly,1.1,false
+993,true,"The Hain Celestial Group, Inc.",Packaged Foods,2003,887,$62.10,true,true,false,true,false,true,$8.69,285,8,Seldom,1.2,false
+994,false,Capital One Financial Corporation,n/a,1967,527,$204.45,true,true,true,true,false,false,$8.89,223,10,Often,4.8,true
+995,true,Primo Water Corporation,Food Distributors,1994,219,$314.80,false,true,true,true,false,false,$2.54,143,5,Often,1.9,true
+996,false,Exact Sciences Corporation,Biotechnology: Commercial Physical & Biological Resarch,1995,69,$354.61,false,false,false,false,true,false,$8.62,10,4,Once,2.2,false
+997,true,BioShares Biotechnology Clinical Trials Fund,n/a,1993,29,$387.79,false,true,true,true,false,false,$8.59,291,7,Daily,3.1,false
+998,false,"Gabelli Equity Trust, Inc. (The)",n/a,2007,561,$377.82,false,true,false,true,true,true,$6.83,288,9,Weekly,2.7,false
+999,false,Compass Diversified Holdings,Home Furnishings,1997,335,$144.27,true,false,false,false,false,false,$3.68,177,4,Monthly,4.0,false
+1000,true,"CF Industries Holdings, Inc.",Agricultural Chemicals,1999,113,$143.52,false,false,true,true,false,false,$1.07,55,12,Weekly,0.9,true
